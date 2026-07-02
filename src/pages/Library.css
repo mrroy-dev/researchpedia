@@ -1,0 +1,69 @@
+.library {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 2rem clamp(1.2rem, 4vw, 3rem) 4rem;
+  width: 100%;
+  flex: 1;
+}
+
+.library__toolbar {
+  max-width: 520px;
+  margin-bottom: 2rem;
+}
+
+.library__body {
+  display: grid;
+  grid-template-columns: 44px 1fr;
+  gap: 1.6rem;
+}
+
+.library__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1.1rem;
+}
+
+.library__pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.3rem;
+  margin-top: 2.5rem;
+}
+
+.library__pagination button {
+  background: none;
+  border: 1px solid var(--rule-strong);
+  padding: 0.4rem 0.9rem;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--library-green-dark);
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.library__pagination button:hover:not(:disabled) {
+  background: var(--library-green);
+  color: var(--paper);
+  border-color: var(--library-green);
+}
+
+.library__pagination button:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
+.library__folio {
+  font-family: var(--font-display);
+  font-style: italic;
+  color: var(--ink-soft);
+  font-size: 0.95rem;
+}
+
+@media (max-width: 860px) {
+  .library__body {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,119 @@
+.site-header {
+  border-bottom: 1px solid var(--rule);
+  padding: 1.6rem clamp(1.2rem, 4vw, 3rem) 1.3rem;
+}
+
+.site-header__inner {
+  max-width: 1180px;
+  margin: 0 auto;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.site-header__mark {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  color: var(--library-green-dark);
+}
+
+.site-header__mark svg {
+  color: var(--burgundy);
+  flex-shrink: 0;
+}
+
+.site-header__brand {
+  font-family: var(--font-display);
+  font-size: clamp(1.5rem, 2.6vw, 1.9rem);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 1;
+  display: inline-flex;
+  align-items: baseline;
+  color: var(--library-green-dark);
+}
+
+.site-header__brand-letter {
+  display: inline-block;
+  animation: brand-rise 0.72s cubic-bezier(0.22, 1, 0.36, 1) both;
+  animation-delay: calc(var(--letter-index) * 45ms);
+  transform-origin: 50% 100%;
+}
+
+.site-header__brand-letter:nth-child(1),
+.site-header__brand-letter:nth-child(9) {
+  color: var(--burgundy);
+  font-style: italic;
+}
+
+.site-header__mark:hover .site-header__brand-letter,
+.site-header__mark:focus-visible .site-header__brand-letter {
+  animation: brand-pulse 0.58s cubic-bezier(0.22, 1, 0.36, 1) both;
+  animation-delay: calc(var(--letter-index) * 25ms);
+}
+
+.site-header__mark em {
+  font-style: italic;
+  font-weight: 450;
+  color: var(--burgundy);
+}
+
+@keyframes brand-rise {
+  0% {
+    opacity: 0;
+    transform: translateY(0.45rem) rotateX(-40deg);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0) rotateX(0deg);
+  }
+}
+
+@keyframes brand-pulse {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  45% {
+    transform: translateY(-0.18rem);
+  }
+}
+
+.site-header__nav {
+  display: flex;
+  gap: 1.4rem;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.site-header__nav a {
+  color: var(--ink-soft);
+  padding-bottom: 0.2rem;
+  border-bottom: 1px solid transparent;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.site-header__nav a:hover {
+  color: var(--library-green-dark);
+}
+
+.site-header__nav a.is-active {
+  color: var(--burgundy);
+  border-color: var(--burgundy);
+}
+
+.site-header__tag {
+  margin: 0;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
