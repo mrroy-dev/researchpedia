@@ -6013,7 +6013,57 @@
   },
   {
     "id": "p0490",
-    "callNumber": "RR 490 C",
+    "callNumber": "RR 490 P",
+    "title": "Pulsar Science with the SKA Observatory",
+    "authors": [
+      "Bhal Chandra Joshi",
+      "Aris Karastergiou",
+      "Marta Burgay",
+      "The SKA pulsar science working group"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "The large instantaneous sensitivity, a wide frequency coverage and flexible observation modes with large number of beams in the sky are the main features of the SKA observatory’s two telescopes, the SKA-Low and the SKA-Mid, which are located on two different continents. Owing to these capabilities, the SKAO telescopes ",
+    "file": "papers/2512.16152.pdf"
+  },
+  {
+    "id": "p0491",
+    "callNumber": "RR 491 T",
+    "title": "Testing Gravity with Binary Pulsars in the SKA Era",
+    "authors": [
+      "V. Venkatraman Krishnan",
+      "L. Shao",
+      "V. Balakrishnan",
+      "M. Colom i Bernadich",
+      "A. Carelo",
+      "A. Corongiu",
+      "A. Deller",
+      "P. C. C. Freire",
+      "M. Geyer",
+      "E. Hackmann",
+      "H. Hu",
+      "Z. Hu",
+      "J. Kunz",
+      "M. Kramer",
+      "K. Liu",
+      "M. E. Lower",
+      "X. Miao",
+      "A. Possenti",
+      "D. Perrodin",
+      "D. S. Pillay",
+      "S. Ransom",
+      "I. Stairs",
+      "B. Stappers",
+      "The SKA Pulsar Science Working Group"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "Binary (and trinary) radio pulsars are natural laboratories in space for understanding gravity in the strong field regime, with many unique and precise tests carried out so far, including the most precise tests of the strong equivalence principle and of the radiative properties of gravity. The Square Kilometre Array (S",
+    "file": "papers/2512.16161.pdf"
+  },
+  {
+    "id": "p0492",
+    "callNumber": "RR 492 C",
     "title": "Classical freeness of 𝔰𝔩_n at level 1 via combinatorics",
     "authors": [
       "Shashank Kanade"
@@ -6024,8 +6074,1020 @@
     "file": "papers/2606.19234v1.pdf"
   },
   {
-    "id": "p0491",
-    "callNumber": "RR 491 A",
+    "id": "p0493",
+    "callNumber": "RR 493 P",
+    "title": "Pulsar Science with the SKAO",
+    "authors": [
+      "Bhal Chandra Joshi",
+      "Aris Karastergiou",
+      "Marta Burgay"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "Chapter in Advancing Astrophysics with the SKA – II Pulsar Science with the SKAO Bhal Chandra Joshi ,1,2 Aris Karastergiou 3 and Marta Burgay 4 1National Centre for Radio Astrophysics, SP Pune University Campus, Pune 411007, Maharashtra, India 2Department of Physics, Indian Institute of Technology Roorkee, Roorkee 2476",
+    "file": "papers/2607.01288.pdf"
+  },
+  {
+    "id": "p0494",
+    "callNumber": "RR 494 H",
+    "title": "How I stop worrying about non-universality and b_ϕ: Constraining local f_ NL with b_ϕ priors from HOD posteriors",
+    "authors": [
+      "Jiaxi Yu",
+      "Nhat-Minh Nguyen"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "IPMU26-0027 How I stop worrying about non-universality and bϕ: Constraining local fNL with bϕ priors from HOD posteriors Jiaxi Yu (禹佳希) 1, 2, ∗ and Nhat-Minh Nguyen (Nguyễn Nhật Minh) 1, 2, 3, † 1Kavli IPMU (WPI), UTIAS, The University of Tokyo, 5-1-5 Kashiwanoha, Kashiwa, Chiba 277-8583, Japan 2Center for Data-Driven ",
+    "file": "papers/2607.01314.pdf"
+  },
+  {
+    "id": "p0495",
+    "callNumber": "RR 495 D",
+    "title": "Discovery of an Inflated Hot Neptune and Its Formation from Jovian Mass Loss",
+    "authors": [
+      "Grant C. Weldon",
+      "Samuel W. Yee",
+      "Bradley M. S. Hansen",
+      "Smadar Naoz",
+      "Joel D. Hartman",
+      "Joshua N. Winn",
+      "R. Paul Butler",
+      "Jeffrey D. Crane",
+      "Phil Evans",
+      "Tianjun Gan",
+      "Steve B. Howell",
+      "Michelle Kunimoto",
+      "David Osip",
+      "David Rapetti",
+      "Stephen A. Shectman",
+      "Keivan G. Stassun",
+      "Johanna K. Teske",
+      "Roberto Zambelli",
+      "George Zhou",
+      "Carl Ziegler"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "The production of Neptune-like planets with orbital periods of 3–6 days is challenging for conventional models of high-eccentricity migration. We present the discovery and characterization of TOI-2195 A b, an inflated hot Neptune (P = 4.16 days, mp = 1.46MNep, Rp = 0.79RJ) orbiting an early K-type star with a wide bina",
+    "file": "papers/2607.01315.pdf"
+  },
+  {
+    "id": "p0496",
+    "callNumber": "RR 496 A",
+    "title": "Aerosols and hydrocarbons in the atmosphere of a white dwarf planet",
+    "authors": [
+      "Ryan J. MacDonald",
+      "Christopher E. O'Connor",
+      "Victoria A. Boehm",
+      "E. M. May",
+      "David K. Sing",
+      "Elijah Mullens",
+      "L. C. Mayorga",
+      "Trevor O. Foote",
+      "Simon Blouin",
+      "Logan A. Pearce",
+      "Nikole K. Lewis",
+      "Jeff Valenti",
+      "Natasha E. Batalha",
+      "Maura Lally",
+      "Joshua D. Lothringer",
+      "Mark S. Marley",
+      "Ishan Mishra",
+      "Susan E. Mullally"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "Aerosols and hydrocarbons in the atmosphere of a white dwarf planet Ryan J. MacDonald1,2, Christopher E. O’Connor3,4, Victoria A. Boehm3, E. M. May5, David K. Sing6, Elijah Mullens3, L. C. Mayorga5, Trevor O. Foote3,7, Simon Blouin8, Logan A. Pearce9,2, Nikole K. Lewis3, Jeff Valenti10, Natasha E. Batalha11, Maura Lall",
+    "file": "papers/2607.01316.pdf"
+  },
+  {
+    "id": "p0497",
+    "callNumber": "RR 497 T",
+    "title": "TEQUILA: Mechanism-free polarimetry for astronomy",
+    "authors": [
+      "Alan M. Watson",
+      "Noémie Globus"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "TEQUILA (Transient Event Q, U , and I Light Analyzer) is an optical imaging polarimeter developed for the second Nasmyth port of the 1.3-m COLIBR´I altitude-azimuth telescope at Observatorio Astron´omico Nacional in San Pedro M´artir, M´exico (OAN-SPM). TEQUILA uses a CMOS sensor with an on-chip wire-grid micro- polari",
+    "file": "papers/2607.01325.pdf"
+  },
+  {
+    "id": "p0498",
+    "callNumber": "RR 498 E",
+    "title": "Extreme outflow velocities and weak UV emission lines indicate quasars shedding their dust cocoons",
+    "authors": [
+      "Guozhen Ma",
+      "Stefan J. Geier",
+      "Johan P. U. Fynbo",
+      "Lise Christensen",
+      "Andrei Berdyugin",
+      "Rasmus Frederiksen",
+      "Kasper E. Heintz",
+      "Phillip D. Henriksen",
+      "Jens-Kristian Krogager",
+      "Cédric Ledoux",
+      "Vilppu Piirola",
+      "Palle Møller",
+      "Simone Vejlgaard",
+      "Hyunseop Choi"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "The recently discovered low-ionisation broad absorption line (LoBAL) quasar GQ 1309+2904 is unusual due to its very broad, highly blueshifted absorption troughs and an absence of broad emission lines except for Hα. In this paper, we present observations of six quasars that appear very similar to GQ 1309+2904 in the res",
+    "file": "papers/2607.01330.pdf"
+  },
+  {
+    "id": "p0499",
+    "callNumber": "RR 499 T",
+    "title": "The fingerprint of primordial mass segregation on the tidal tails of star clusters",
+    "authors": [
+      "S. Mojtaba Ghasemi",
+      "Hosein Haghi",
+      "Mohammad Mansoury",
+      "Akram Hasani Zonoozi",
+      "Pouriya Miri",
+      "Pavel Kroupa"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "We investigate the effect of primordial mass segregation (PMS) in shaping the tidal tail structures of star clusters, searching for any trace of PMS on the tails at both early and late evolutionary stages. Through N-body simulations, we analyze clusters with two different degrees of PMS at various Galactocentric distan",
+    "file": "papers/2607.01331.pdf"
+  },
+  {
+    "id": "p0500",
+    "callNumber": "RR 500 A",
+    "title": "A possible high-redshift origin for the short GRB 061201: implications of a compact binary merger beyond cosmic noon",
+    "authors": [
+      "E. Troja",
+      "B. O'Connor",
+      "Y. -H. Yang",
+      "T. M. Gaudin",
+      "M. Yadav",
+      "N. Passaleva",
+      "S. Dichiara"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "Short gamma-ray bursts (GRBs) at redshift z ≳2 remain exceptionally rare, yet they are crucial for tracing compact binary mergers in the early Universe and understanding their role in the production of r-process elements. GRB 061201 is an unusual and still debated event: although its optical afterglow was accurately lo",
+    "file": "papers/2607.01337.pdf"
+  },
+  {
+    "id": "p0501",
+    "callNumber": "RR 501 I",
+    "title": "IRIS: Deciphering Spectral-Line Imagery of the Galactic Center by Machine-Learning on Simulations",
+    "authors": [
+      "B. L. DuBois",
+      "Cara Battersby",
+      "Jonah C. Baade",
+      "Dani R. Lipman",
+      "H Perry Hatchfield",
+      "Jack Sullivan",
+      "Russell Bentley",
+      "Stefan Reissl",
+      "Ralf S. Klessen",
+      "Victor F. Ksoll",
+      "Mattia C. Sormani",
+      "Zi-Xuan Feng",
+      "Adam Ginsburg",
+      "Robin Tress"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "In understanding the 3D structure of the Milky Way’s Central Molecular Zone (CMZ), we are lim- ited by our edge-on perspective. Towards addressing this problem, we introduce Imagery Reversion Informed by Simulation (IRIS). IRIS is a novel machine-learning code base featuring a deep convolu- tional neural network (CNN),",
+    "file": "papers/2607.01338.pdf"
+  },
+  {
+    "id": "p0502",
+    "callNumber": "RR 502 X",
+    "title": "X-ray polarization in magnetized neutron stars",
+    "authors": [
+      "Tanuman Ghosh",
+      "Shiv Sethi"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "X-ray polarimetry has opened a new window into understanding the physics around magnetized compact objects. IXPE detection of linear polarization from such systems has prompted a new spurt of theoretical modeling. Our study is based on the dominant paradigm that the observed polarization arises from the scattering of p",
+    "file": "papers/2607.01357.pdf"
+  },
+  {
+    "id": "p0503",
+    "callNumber": "RR 503 C",
+    "title": "Constraining the near-source relativistic wind medium using Fast Radio Burst circular polarization data",
+    "authors": [
+      "Om Gupta",
+      "Pawan Kumar",
+      "Paz Beniamini"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "Fast Radio Bursts (FRBs) exhibit diverse spectro-temporal characteristics, which can probe vital propagation and source physics via Stokes polarimetry. We investigate whether the circular polarization (Stokes 𝑉) observed in some bursts is produced by Faraday conversion in the near-source wind of magnetars rather than ",
+    "file": "papers/2607.01369.pdf"
+  },
+  {
+    "id": "p0504",
+    "callNumber": "RR 504 A",
+    "title": "AI-enabled gravitational-waves searches for binary neutron stars at optimal sensitivity",
+    "authors": [
+      "Bhavya Gupta",
+      "Deep Chatterjee",
+      "William Benoit",
+      "Ethan Marx",
+      "Christina Reissel",
+      "Seiya Tsukamoto",
+      "Kyungseop Yoon",
+      "Michael W. Coughlin",
+      "Philip Harris",
+      "Erik Katsavounidis"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "AI-enabled gravitational-waves searches for binary neutron stars at optimal sensitivity Bhavya Gupta,1 Deep Chatterjee,1, 2 William Benoit,3 Ethan Marx,1, 2 Christina Reissel,1, 2 Seiya Tsukamoto,3 Kyungseop Yoon,1, 2 Michael W. Coughlin,3 Philip Harris,2 and Erik Katsavounidis1, 2 1LIGO Laboratory, 185 Albany St, MIT,",
+    "file": "papers/2607.01372.pdf"
+  },
+  {
+    "id": "p0505",
+    "callNumber": "RR 505 S",
+    "title": "Stark-Broadened Profiles for Ionized Helium Lines Using Computer Simulations",
+    "authors": [
+      "Patrick Tremblay",
+      "Alain Beauchamp",
+      "Pierre Bergeron"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "We present new and improved calculations of Stark-broadened profiles for ion- ized helium, a key ingredient in the spectroscopic analysis of helium-atmosphere DO white dwarfs. Our approach builds upon the computer simulation framework previously developed for neutral helium, which fully accounts for the dynamical inter",
+    "file": "papers/2607.01373.pdf"
+  },
+  {
+    "id": "p0506",
+    "callNumber": "RR 506 L",
+    "title": "Lensing-Reconstructed Dark Matter-Intracluster Medium Coherence as a Probe of Cluster Dynamical State: Application to HSTFF, RELICS, and CLASH Clusters",
+    "authors": [
+      "Giulia Cerini",
+      "Sayan Saha",
+      "Jacqueline McCleary",
+      "Eric Habjan",
+      "Nico Cappelluti",
+      "Priyamvada Natarajan",
+      "Sabina Khizroev",
+      "Jason Rhodes",
+      "Eric Huff",
+      "Nicole Chidester",
+      "Maya Amit",
+      "Andrew Robertson",
+      "Bryanne McDonough",
+      "Elena Bellomi",
+      "Erwin T. Lau",
+      "John ZuHone"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "We present the first application of Fourier-space coherence analysis between the lensing-reconstructed projected mass distribution and the X-ray-emitting intracluster medium to a sample of 49 observed galaxy clusters. Using publicly available HST convergence maps from the Hubble Frontier Fields, CLASH, and RELICS progr",
+    "file": "papers/2607.01389.pdf"
+  },
+  {
+    "id": "p0507",
+    "callNumber": "RR 507 S",
+    "title": "Secondary Production of Photons from ALP Dark Matter interacting with a Cosmological Magnetic Field",
+    "authors": [
+      "Abdias Aires",
+      "Robert Brandenberger",
+      "Ashu Kushwaha"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "Secondary Production of Photons from ALP Dark Matter interacting with a Cosmological Magnetic Field Abdias Aires,1, 2 Robert Brandenberger,1, 3, ∗ and Ashu Kushwaha4, † 1Department of Physics, McGill University, Montr´eal, QC, H3A 2T8, Canada 2Instituto de Fisica Teorica, UNESP-Universidade Estadual Paulista R. Dr. Ben",
+    "file": "papers/2607.01399.pdf"
+  },
+  {
+    "id": "p0508",
+    "callNumber": "RR 508 F",
+    "title": "Fractional-Dimension Gravity and the Milky Way Galaxy",
+    "authors": [
+      "Gabriele U. Varieschi"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "FRACTIONAL-DIMENSION GRAVITY AND THE MILKY WAY GALAXY Gabriele U. Varieschi∗ Department of Physics, Loyola Marymount University, Los Angeles, CA 90045, USA (Dated: July 3, 2026) In this work, we focus our analysis of Fractional-Dimension Gravity (FDG) on our home galaxy, the Milky Way (MW), by using the latest Gaia DR3",
+    "file": "papers/2607.01412.pdf"
+  },
+  {
+    "id": "p0509",
+    "callNumber": "RR 509 H",
+    "title": "How Late Solid Enrichment Shapes Atmospheric Abundances in Giant Planets",
+    "authors": [
+      "Michael L. Balogh",
+      "Yuvan Sooryakumar",
+      "Sachen Gombu",
+      "Francis J. Poulin",
+      "Pluto Jiang",
+      "Safwan Khan",
+      "Anthony Girmenia"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "Atmospheric abundance measurements of giant exoplanets are increasingly used to infer their forma- tion histories, motivating upcoming population studies with facilities such as the ESA Ariel mission. We present a population synthesis study of giant planet formation that combines pebble accretion, plan- etesimal format",
+    "file": "papers/2607.01466.pdf"
+  },
+  {
+    "id": "p0510",
+    "callNumber": "RR 510 R",
+    "title": "Radiative filtering unifies broad-line phenomenology in active galactic nuclei",
+    "authors": [
+      "Mohammad Hassan Naddaf"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "Broad emission lines (bels) are a defining feature of active galactic nuclei (agns), yet they weaken or disappear in both very low- and very high-accretion systems. These regimes are typically treated separately, and a unified physical explanation has remained elusive. Here we show that this behavior arises if line for",
+    "file": "papers/2607.01479.pdf"
+  },
+  {
+    "id": "p0511",
+    "callNumber": "RR 511 T",
+    "title": "The Galactic Centre G+0.633-0.0604 molecular cloud: a new astrochemical gold mine. I. Gas physical properties",
+    "authors": [
+      "D. San Andrés",
+      "L. Colzi",
+      "V. M. Rivilla",
+      "M. Sanz-Novo",
+      "S. Martín",
+      "I. Jiménez-Serra",
+      "S. Zeng"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "Context. In the Central Molecular Zone (CMZ) environment, shocks play a key role in both triggering star formation and providing chemical enrichment. The Sgr B2 complex is a prime template, hosting several massive protoclusters (N, M, S) and the northern G+0.693 cloud, which exhibits shock-induced prestellar signatures",
+    "file": "papers/2607.01481.pdf"
+  },
+  {
+    "id": "p0512",
+    "callNumber": "RR 512 M",
+    "title": "Magneto-rotational instabilities in solids: application to neutron-star crusts",
+    "authors": [
+      "Arthur G. Suvorov",
+      "Thomas Celora",
+      "Kostas D. Kokkotas"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "Magneto-rotational instabilities in solids: application to neutron-star crusts Arthur G. Suvorov,1 Thomas Celora,2, 3 and Kostas D. Kokkotas1 1Theoretical Astrophysics, Institute for Astronomy and Astrophysics, University of T¨ubingen, 72076 T¨ubingen, Germany 2Institut de Ci`encies de I’Espai (ICE-CSIC), Campus UAB, 0",
+    "file": "papers/2607.01505.pdf"
+  },
+  {
+    "id": "p0513",
+    "callNumber": "RR 513 C",
+    "title": "CHEOPS observations of V1298 Tau: updated planetary densities and implications on the early evolution of the young system",
+    "authors": [
+      "Hinna Shivkumar",
+      "Sérgio Gomes",
+      "Jean-Michel Désert",
+      "John Livingston",
+      "John Lopez",
+      "Vatsal Panwar",
+      "James Sikora",
+      "Saugata Barat",
+      "Pierre F. L. Maxted",
+      "Thomas G. Wilson",
+      "Antonija Oklopčić",
+      "Silvia Toonen"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "The young (10-30 Myr) multi-planet system V1298 Tau presents a unique opportunity to probe the early formation and evolution of young systems. We present new CHEOPS observations of the three innermost planets, yielding high-precision planetary radii (∼5-11 R⊕ ) and improving the radius ratios (Rp/Rs) by 30-71% compared",
+    "file": "papers/2607.01559.pdf"
+  },
+  {
+    "id": "p0514",
+    "callNumber": "RR 514 D",
+    "title": "Detection of Doppler velocity differences between ions and neutrals in an erupting prominence",
+    "authors": [
+      "Yuwei Huang",
+      "Kiyoshi Ichimoto",
+      "Tetsu Anan"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "We performed a spectroscopic observation of an erupting prominence occurred on the solar limb on 2015 May 8th in He I 7065 Å, O I 7772 Å triplet and Ca II 8498 Å lines to investigate differences in the Doppler velocity between ions and neutrals in a plasma strongly accelerated by the Lorentz force. We found that the io",
+    "file": "papers/2607.01570.pdf"
+  },
+  {
+    "id": "p0515",
+    "callNumber": "RR 515 S",
+    "title": "Signatures of Two Distinct Epochs of FRB 20240114A from January to August 2024 Based on its Energy and Waiting Time Analysis",
+    "authors": [
+      "Xiao Li",
+      "Ying Gu",
+      "En-Wei Liang"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "A comprehensive analysis of the energy and waiting time distributions of the bursts from FRB 20240114A detected by the Five-hundred-meter Aperture Spherical Radio Telescope between 28 January and 29 August 2024 is presented. For the full sample, its energy distribution cannot be fitted with the simple power-law (SPL), ",
+    "file": "papers/2607.01576.pdf"
+  },
+  {
+    "id": "p0516",
+    "callNumber": "RR 516 E",
+    "title": "Efficient high-order explicit symplectic splitting methods for post-Newtonian Hamiltonian systems",
+    "authors": [
+      "Yujie Jiang",
+      "Lijie Mei"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": ". The nonseparability of post-Newtonian (PN) Hamiltonian systems typically necessitates the use of computationally expensive implicit integrators. Recent research over- comes this limitation by embedding the dynamics into a doubled phase space, which enables the development of explicit symplectic methods. However, exis",
+    "file": "papers/2607.01596.pdf"
+  },
+  {
+    "id": "p0517",
+    "callNumber": "RR 517 B",
+    "title": "Bolometric correction factor and radiative efficiency for the super-Eddington accretion flow in tidal disruption events",
+    "authors": [
+      "Yongxin Wu",
+      "Erlin Qiao",
+      "Xuan Fang",
+      "Yiyang Lin",
+      "Jifeng Liu",
+      "Meng Guo"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "The estimate of the bolometric luminosity and the radiative efficiency are two key aspects for understanding the properties of the accretion flow around a supermassive black hole (BH). In this paper, we focus on the estimate of the bolometric luminosity and the radiative efficiency of the early super-Eddington accretio",
+    "file": "papers/2607.01604.pdf"
+  },
+  {
+    "id": "p0518",
+    "callNumber": "RR 518 X",
+    "title": "X-ray Fourier lag-frequency spectra modulated by stochastic turbulent acceleration in the jets of high-frequency-peaked BL Lac",
+    "authors": [
+      "Guang-Cheng Xiao",
+      "Wen Hu",
+      "Da-Guo Jiang",
+      "Jun-Xian Wang",
+      "Zhen-Yi Cai",
+      "Da-Hai Yan",
+      "Fang-Wu Lu"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "X-ray Fourier lag-frequency spectra modulated by stochastic turbulent acceleration in the jets of high-frequency-peaked BL Lac Guang-Cheng Xiao,1, 2 Wen Hu,1, 2, 3, ∗ Da-Guo Jiang,1 Jun-Xian Wang,4 Zhen-Yi Cai,4 Da-Hai Yan,5 and Fang-Wu Lu6 1Department of Physics, Key Laboratory of Energy Conversion Optoelectronic Func",
+    "file": "papers/2607.01606.pdf"
+  },
+  {
+    "id": "p0519",
+    "callNumber": "RR 519 A",
+    "title": "Architecture and Validation of the CRS F-Engine for the CHORD Radio Telescope",
+    "authors": [
+      "Ian Hendricksen",
+      "Jean-François Cliche",
+      "Matt Dobbs",
+      "Joshua Montgomery"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "We introduce the design of the t0.technology Control and Readout System (CRS) F-Engine that will be used for the Canadian Hydrogen Observatory and Radio transient Detector (CHORD), a new radio interferometer currently being commissioned at the Dominion Radio Astrophysical Observatory (DRAO) in Canada. The CRS F-Engine ",
+    "file": "papers/2607.01625.pdf"
+  },
+  {
+    "id": "p0520",
+    "callNumber": "RR 520 N",
+    "title": "Numerical Investigation of Efficient Electron Acceleration at an Unsteady Solar Flare Loop-Top",
+    "authors": [
+      "Yoshiaki Sato",
+      "Takafumi Kaneko",
+      "Noriyuki Narukage",
+      "Shinsuke Takasao"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "Using magnetohydrodynamic (MHD) fields and guiding-center test-particle calculations, this study investigates how time-dependent loop-top dynamics modulate the adiabatic energization of electrons in a solar flare. Our results indicate that a time-varying loop-top structure enhances acceleration efficiency compared to a",
+    "file": "papers/2607.01644.pdf"
+  },
+  {
+    "id": "p0521",
+    "callNumber": "RR 521 D",
+    "title": "Development of a Retrieval-Augmented Generation Virtual Assistant for Enhanced Information Discovery at Rubin Observatory",
+    "authors": [
+      "Leanne P. Guy",
+      "Connor Yablonski",
+      "Aaron M. Meisner",
+      "Guillem Megias Homar",
+      "Merlin Fisher-Levine",
+      "Eman E. Ali",
+      "Tiger J. Hu",
+      "Christopher W. Stubbs"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "The NSF-DOE Vera C. Rubin Observatory will generate petabytes of data through the Legacy Survey of Space and Time (LSST) over the next decade, enabling discoveries across a broad range of astrophysical fields. Along- side these data products, Rubin maintains a large but heterogeneous collection of supporting documentat",
+    "file": "papers/2607.01659.pdf"
+  },
+  {
+    "id": "p0522",
+    "callNumber": "RR 522 P",
+    "title": "Periodic Radio Technosignature Search toward 3I/ATLAS with FAST",
+    "authors": [
+      "Jian-Kang Li",
+      "Zhen-Zhao Tao",
+      "Tong-Jie Zhang",
+      "Men-Quan Liu"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "3I/ATLAS, the third confirmed interstellar object discovered in the Solar System, provides a unique opportunity for targeted technosignature searches. We report a periodic radio technosignature search toward 3I/ATLAS using the Five-hundred-meter Aperture Spherical Telescope (FAST) L-band multi- beam receiver. To search",
+    "file": "papers/2607.01666.pdf"
+  },
+  {
+    "id": "p0523",
+    "callNumber": "RR 523 T",
+    "title": "The Sun's chemical peculiarity: disentangling Galactic chemical evolution and planetary engulfment in solar twins",
+    "authors": [
+      "Mia Babatsikos",
+      "Fan Liu",
+      "Amanda Karakas",
+      "Ilya Mandel",
+      "Lachlan Passenger",
+      "Megan Bedell",
+      "Sharon Wang",
+      "Zimo Cheng"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "Recent observational studies have suggested that the Sun may be chemically peculiar relative to the majority of solar twins. Here, we re-analyse high-resolution, high signal-to-noise spectra of 79 nearby solar twins using a differential spectroscopic approach and Bayesian framework to test whether the Sun’s chemical pe",
+    "file": "papers/2607.01699.pdf"
+  },
+  {
+    "id": "p0524",
+    "callNumber": "RR 524 T",
+    "title": "The influence of lunar tidal potential on clock frequencies at different positions on Earth",
+    "authors": [
+      "Hongbin Zhang",
+      "Yanyue Gao",
+      "Baocheng Zhang"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "With the advancements in clock timing technology, increasingly smaller time differences can be distinguished. Therefore, it is critical to investigate the fractional frequency shift of clocks at different locations on Earth. In this paper, we study it systematically under the influence of a subtle lunar tidal potential",
+    "file": "papers/2607.01758.pdf"
+  },
+  {
+    "id": "p0525",
+    "callNumber": "RR 525 L",
+    "title": "Lattice study of primordial black hole formation in bumpy axion inflation",
+    "authors": [
+      "Masahiro Kawasaki",
+      "Kai Murai",
+      "Shunsuke Tsuchida"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": ". We study primordial black hole (PBH) formation in axion U (1) inflation using lattice simulations. In axion U (1) inflation with a bumpy potential, the curvature pertur- bations can be enhanced in a narrow range of wavenumbers, potentially leading to PBH formation. After confirming that our lattice simulations reprod",
+    "file": "papers/2607.01780.pdf"
+  },
+  {
+    "id": "p0526",
+    "callNumber": "RR 526 G",
+    "title": "Gravitational Waves from Primordial Black Holes: Connecting Low-Frequency Scalar-Induced Signatures to High-Frequency Binary Mergers",
+    "authors": [
+      "Ashu Kushwaha"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "Gravitational Waves from Primordial Black Holes: Connecting Low-Frequency Scalar-Induced Signatures to High-Frequency Binary Mergers Ashu Kushwaha1, ∗ 1Department of Physics, Institute of Science Tokyo, 2-12-1 Ookayama, Meguro-ku, Tokyo 152-8551, Japan Formation of primordial black holes (PBHs) requires a significant e",
+    "file": "papers/2607.01818.pdf"
+  },
+  {
+    "id": "p0527",
+    "callNumber": "RR 527 P",
+    "title": "Polarization Architecture of Steady GRMHD Jets from the Horizon to Infinity",
+    "authors": [
+      "Zhenyu Zhang",
+      "Yehui Hou",
+      "Yu Song",
+      "Yosuke Mizuno",
+      "Bin Chen"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "We develop a semi-analytic framework for stationary, axisymmetric GRMHD jets that efficiently generates resolved polarized images from the near-horizon region out to ∼ 105 rg across a broad pa- rameter space, enabling rapid exploration of how gravity and magnetohydrodynamic flows imprint scale-dependent signatures on j",
+    "file": "papers/2607.01820.pdf"
+  },
+  {
+    "id": "p0528",
+    "callNumber": "RR 528 P",
+    "title": "Post-starburst Galaxies with Active Galactic Nucleus: Properties and Evolutionary Sequences",
+    "authors": [
+      "Junjie Huang",
+      "Yanmei Chen",
+      "Yong Shi",
+      "Cheng Li",
+      "Zhuo Cheng",
+      "Ho-Hin Leung",
+      "Vivienne Wild",
+      "Qiusheng Gu",
+      "Qihang Cheng",
+      "Ying Yu"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "Post-starburst (PSB) galaxies, identified by strong Balmer absorption and weak nebular emission, provide a key laboratory for studying rapid quenching. Using the final data release of the SDSS-IV MaNGA survey, we follow the traditional PSB selection criteria of Chen et al. (2019) and develop a new method to identify re",
+    "file": "papers/2607.01832.pdf"
+  },
+  {
+    "id": "p0529",
+    "callNumber": "RR 529 R",
+    "title": "Revisiting atmospheric Roche lobe overflow in symbiotic binaries",
+    "authors": [
+      "Tan Liu",
+      "Natalia Ivanova",
+      "Philipp Podsiadlowski",
+      "Joanna Mikołajewska",
+      "Zheng-Wei Liu",
+      "Xuefei Chen",
+      "Xiangcun Meng",
+      "Zhanwen Han"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "Context. Classical binary evolution models predict dynamically unstable mass transfer in symbiotic stars with high mass ratios (qcrit > 1.6), leading to a common envelope (CE). However, a large fraction of observed S-type symbiotic systems maintain long-lived interaction, suggesting that an additional stabilizing mecha",
+    "file": "papers/2607.01848.pdf"
+  },
+  {
+    "id": "p0530",
+    "callNumber": "RR 530 T",
+    "title": "TESS’s First Bound Microlensing Planet—A Binary Microlensing Event Revealing a Planetary Companion toward the Galactic Plane",
+    "authors": [
+      "Mallory Harris"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "We report the discovery of Gaia23bra b, the first gravitationally bound microlensing planet detected by the Transiting Exoplanet Survey Satellite (TESS). Initially flagged as a single-lens event by the Gaia Science Alerts system, Gaia23bra was serendipitously observed by TESS over two consecutive sectors. During those ",
+    "file": "papers/2607.01853.pdf"
+  },
+  {
+    "id": "p0531",
+    "callNumber": "RR 531 M",
+    "title": "meer21cm: an Analysis Pipeline and Comprehensive Toolkit for HI Intensity Mapping",
+    "authors": [
+      "Zhaoting Chen",
+      "Steven Cunnington",
+      "Daniel Tassie",
+      "Alkistis Pourtsidou",
+      "Laura Wolz",
+      "Gabriele Autieri",
+      "Matilde Barberi-Squarotti",
+      "José Luis Bernal",
+      "Phil Bull",
+      "Stefano Camera",
+      "Isabella P. Carucci",
+      "Brandon Engelbrecht",
+      "José Fonseca",
+      "Karin Fornazier",
+      "Keith Grainge",
+      "Jiakang Han",
+      "Wenkai Hu",
+      "Melis O. Irfan",
+      "Piyanat Kittiwisit",
+      "Yichao Li",
+      "Sefa Pamuk",
+      "Mario G. Santos",
+      "Marta Spinelli",
+      "Jingying Wang",
+      "Amadeus Witzemann",
+      "Boyan Zhao"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "We present meer21cm, a comprehensive python package for cosmological data analysis of single- dish Hi intensity mapping surveys. This package is simple to use, with a modularised code structure designed for interactive usage. meer21cm is designed for data analysis, with particular focus on the UHF-band observation of M",
+    "file": "papers/2607.01864.pdf"
+  },
+  {
+    "id": "p0532",
+    "callNumber": "RR 532 D",
+    "title": "Distance Determination of Southern Galactic Plane Supernova Remnants with the Mopra CO Survey and DECaPS 3D Dust Map",
+    "authors": [
+      "Fupeng Liu",
+      "He Zhao",
+      "Biwei Jiang",
+      "Jun Li",
+      "Zhe Zhang"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "Accurate distance measurements to supernova remnants (SNRs) are crucial for understanding their physical properties, evolutionary processes, and role in the Galactic interstellar medium (ISM) cycle. In this study, we apply for the first time to the southern Galactic plane a distance determination method that utilizes C",
+    "file": "papers/2607.01886.pdf"
+  },
+  {
+    "id": "p0533",
+    "callNumber": "RR 533 J",
+    "title": "J and H band sky brightness measurements from polar day to polar night at Dome A, Antarctica",
+    "authors": [
+      "Jinji Li",
+      "Bin Ma",
+      "Haonan Yang",
+      "Pu Lin",
+      "Zhongnan Dong",
+      "Michael C. B. Ashley",
+      "Lu Feng",
+      "Yi Hu",
+      "Zhaohui Shang",
+      "Yun Shi",
+      "Shijie Sun",
+      "Xu Yang"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "Context. The near-infrared (NIR) sky brightness is a fundamental parameter for evaluating the performance of ground-based infrared observatories. Aims. Dome A on the Antarctic plateau offers exceptional atmospheric conditions, yet its NIR sky background has not been continu- ously monitored. We present the first contin",
+    "file": "papers/2607.01923.pdf"
+  },
+  {
+    "id": "p0534",
+    "callNumber": "RR 534 C",
+    "title": "Colour evolution in the radio afterglow of GRB 241025A",
+    "authors": [
+      "S. Giarratana",
+      "O. S. Salafia",
+      "L. Nava",
+      "G. Ghirlanda",
+      "M. Giroletti",
+      "S. Antier",
+      "M. Pillas",
+      "T. Hussenot-Desenonges",
+      "A. Iskandar",
+      "M. Tanasan",
+      "G. Oganesyan",
+      "N. Di Lalla",
+      "N. Omodei"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "We present the observing campaign of the afterglow of GRB 241025A, a γ-ray burst (GRB) whose prompt emission has been simul- taneously detected by Swift, Einstein Probe, Fermi/GBM, SVOM, Konus-Wind and VZLUSAT-2 3U CubeSat. Our multi-wavelength campaign comprises radio, near-infrared, Optical and X-ray observations. Th",
+    "file": "papers/2607.01941.pdf"
+  },
+  {
+    "id": "p0535",
+    "callNumber": "RR 535 A",
+    "title": "Asteroseismic Analysis of the Merger Product Red Giant in the γ Persei System",
+    "authors": [
+      "Rozália Z. Ádám",
+      "László Molnár",
+      "Róbert Szabó",
+      "Csilla Kalup",
+      "Frank Grundahl",
+      "Daniel Huber",
+      "Mads Skakke Fredslund",
+      "Pere L. Pallé",
+      "Dóra Tarczay-Nehéz",
+      "Jonatan Rudrasingam"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "Context. γ Persei is a long-period eclipsing binary system (P ≈ 14.6 years) containing a red giant primary, and it is well known for its multi-faceted classification as a visual and spectroscopic binary. Its brightness and binary nature together make it a valuable target for both photometric and spectroscopic studies, ",
+    "file": "papers/2607.01955.pdf"
+  },
+  {
+    "id": "p0536",
+    "callNumber": "RR 536 W",
+    "title": "WST_MOSHR_SPIE2026_14149-420",
+    "authors": [
+      "Andrea Tozzi"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "The Wide-field Spectroscopic Telescope (WST) is a planned 12-meter class dedicated spectroscopic facility for massive spectroscopic surveys. This paper presents the current status of Work Package 4.5, the High Resolution Multi-Object Spectrograph (HR-MOS) module. We describe the international team organization and opti",
+    "file": "papers/2607.01968.pdf"
+  },
+  {
+    "id": "p0537",
+    "callNumber": "RR 537 P",
+    "title": "Pulsar Backend for 21 CentiMeter Array: Implementation of Data Acquisition and Initial Results",
+    "authors": [
+      "Yukai Zhou",
+      "Junhua Gu",
+      "Mengyao Xue",
+      "Faxin Shen",
+      "Jian Li",
+      "Qiuyang Fu",
+      "Cijie Zhang",
+      "Youling Yue",
+      "Weiwei Zhu",
+      "Kejia Lee",
+      "Renxin Xu"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "We implemented a data acquisition system for 21 CentiMeter Array (21CMA), enabling baseband observations targeting pulsars and fast radio bursts. Based on the Radio Frequency System-on-Chip (RFSoC) platform, the new back- end is capable of instantaneously covering the effective bandwidth from 50 to 350 MHz, with multi-",
+    "file": "papers/2607.01975.pdf"
+  },
+  {
+    "id": "p0538",
+    "callNumber": "RR 538 R",
+    "title": "Research Progress on Solar Small-Scale Dynamo",
+    "authors": [
+      "Wen-Jie Jiang",
+      "Lei Ni",
+      "Chun-Lan Jin",
+      "Zhi Xu",
+      "Mei Zhang"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "The small-scale solar dynamo theory, as the core mechanism explaining the origin of the persistent, disperse weak magnetic field in the quiet Sun regions, has made signifi- cant progress over the past three decades in the fields of observation, theory, and simulation. Breakthrough observations from high-resolution spac",
+    "file": "papers/2607.02009.pdf"
+  },
+  {
+    "id": "p0539",
+    "callNumber": "RR 539 N",
+    "title": "NGTS-39 b: A 58 d transiting warm Jupiter in an eccentric orbit",
+    "authors": [
+      "Ioannis Apergis",
+      "Daniel Bayliss",
+      "Solène Ulmer-Moll",
+      "Samuel Gill",
+      "Toby Rodel",
+      "Matthew Battley",
+      "Paul Benni",
+      "Allyson Bieryla",
+      "James A. Blake",
+      "Andrea Bonfanti",
+      "François Bouchy",
+      "Edward M. Bryant",
+      "Matthew R. Burleigh",
+      "Samuel J. Carlier",
+      "Sarah L. Casewell",
+      "Hritam Chakraborty",
+      "Alastair B. Claringbold",
+      "Karen A. Collins",
+      "Benjamin D. R. Davies",
+      "Xavier Dumusque",
+      "Troy A. Edkins",
+      "Fintan Eeles-Nolle",
+      "Jo Ann Egger",
+      "Jorge Fernández Fernández",
+      "Marcelo Aron Fetzner Keniger",
+      "Pedro Figueira",
+      "Michael R. Goad",
+      "George Harvey",
+      "Faith Hawthorn",
+      "Melissa J. Hobson",
+      "Mathilde Houelle",
+      "Giovanni Isopi",
+      "Timour Jestin",
+      "Alicia Kendall",
+      "Monika Lendl",
+      "Daniel Lewis",
+      "Isobel Lockley",
+      "Franco Mallia",
+      "James McCormac",
+      "Morgan A. Mitchell",
+      "Lucile Mignon",
+      "Hugh Osborn",
+      "Angelica Psaridi",
+      "Alex Romanec",
+      "Suman Saha",
+      "Amber Sedgley",
+      "Sérgio Sousa",
+      "Neil Thomas",
+      "Stéphane Udry",
+      "Christopher Watson",
+      "Richard G. West",
+      "Thomas G. Wilson",
+      "Peter J. Wheatley",
+      "Jamie T. Williams",
+      "Aldo Zapparata",
+      "Krzysztof Sz. Zieliński"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "We report the discovery and characterisation of NGTS-39 b (TIC 453147896 b), a warm Jupiter transiting a Sun-like star on a 58.2 day, eccentric (𝑒 = 0.386 ± 0.019) orbit. NGTS-39 b was first identified from a TESS single transit event, and subsequently confirmed with NGTS photometry and radial velocity measurements fr",
+    "file": "papers/2607.02061.pdf"
+  },
+  {
+    "id": "p0540",
+    "callNumber": "RR 540 T",
+    "title": "Testing Gravity with Binary Pulsars in the SKA Era",
+    "authors": [
+      "V. Venkatraman Krishnan",
+      "L. Shao",
+      "V. Balakrishnan",
+      "A. Carleo",
+      "M. Colom i Bernadich",
+      "A. Corongiu",
+      "A. Deller",
+      "P. C. C. Freire",
+      "M. Geyer",
+      "E. Hackmann",
+      "H. Hu",
+      "Z. Hu",
+      "M. Kramer",
+      "J. Kunz",
+      "K. Liu",
+      "M. E. Lower",
+      "X. Miao",
+      "D. Perrodin",
+      "D. S. Pillay",
+      "A. Possenti",
+      "S. Ransom",
+      "I. Stairs",
+      "B. Stappers",
+      "The SKA Pulsar Science Working Group"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "Chapter in Advancing Astrophysics with the SKA – II Testing Gravity with Binary Pulsars in the SKA Era V. Venkatraman Krishnan ,1 L. Shao ,2,1,3 V. Balakrishnan ,1,4 A. Carleo ,5 M. Colom i Bernadich ,5,1 A. Corongiu ,5 A. Deller ,6,7 P. C. C. Freire ,1 M. Geyer ,8 E. Hackmann ,9 H. Hu ( ) ,10,1 Z. Hu ,11,2 M. Kramer ,",
+    "file": "papers/2607.02064.pdf"
+  },
+  {
+    "id": "p0541",
+    "callNumber": "RR 541 Q",
+    "title": "Quantum-optimal coronagraphy with spatial mode sorting for direct exoplanet observations",
+    "authors": [
+      "Yinzi Xin",
+      "Sebastiaan Haffert",
+      "Yoo Jung Kim",
+      "Jonathan Lin"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "Context. Conventional coronagraphs struggle to reach the theoretical limit of exoplanet detection at close separations to the star, particularly when the telescope has a complex aperture or when the star is partially resolved. Coronagraphy or nulling using spatial mode-sorting can reach the theoretical limit, but the o",
+    "file": "papers/2607.02065.pdf"
+  },
+  {
+    "id": "p0542",
+    "callNumber": "RR 542 R",
+    "title": "Revision of the Detached Eclipsing System IR Cas from TESS Observations, Ground-Based Photometry and Spectroscopy",
+    "authors": [
+      "Matúš Kamenec",
+      "Pavol Gajdoš",
+      "Martin Vaňko",
+      "Reddy Charan Reddy Munagala",
+      "Marek Skarka",
+      "Štefan Parimucha"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "We present a new photometric and spectroscopic analysis of detached eclipsing binary IR Cas based on TESS observations, supplementary ground-based photometry in Sloan 𝑔′, 𝑟′, and 𝑖′ filters, and newly obtained ra- dial velocity measurements. The updated orbital and physical parameters of the system were derived usin",
+    "file": "papers/2607.02076.pdf"
+  },
+  {
+    "id": "p0543",
+    "callNumber": "RR 543 D",
+    "title": "Development of a cosmic ray detector using CMOS sensors embedded in smartphones and Raspberry Pi devices",
+    "authors": [
+      "Wakiko Takano",
+      "Shigeharu Udo",
+      "Atsushi Shiomi",
+      "Kinya Hibino"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "Cosmic rays are ubiquitous; however, their direct observation traditionally demands specialized, high-cost hardware and significant technical expertise, presenting a high barrier for non-specialist environments such as schools and community settings. We present SORAMAME, a smartphone and tablet appli- cation that lower",
+    "file": "papers/2607.02106.pdf"
+  },
+  {
+    "id": "p0544",
+    "callNumber": "RR 544 S",
+    "title": "Spherically Symmetric Fluid Simulations of Black Hole Accretion in Self-Interacting Dark Matter Halos",
+    "authors": [
+      "Zhe Meng",
+      "Tan Chen",
+      "Bocheng Zhu",
+      "Fan Zhou",
+      "Bin Hu",
+      "Liang Gao",
+      "Rong-Gen Cai"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "Spherically Symmetric Fluid Simulations of Black Hole Accretion in Self-Interacting Dark Matter Halos Zhe Meng,1 Tan Chen,1, 2, ∗ Bocheng Zhu,3 Fan Zhou,1 Bin Hu,1, 2 Liang Gao,1, 2, 3 and Rong-Gen Cai4 1School of Physics and Astronomy, Beijing Normal University, Beijing 100875, China 2Institute for Frontier in Astrono",
+    "file": "papers/2607.02151.pdf"
+  },
+  {
+    "id": "p0545",
+    "callNumber": "RR 545 R",
+    "title": "Resolved HI and Environmental Dynamics",
+    "authors": [
+      "M. Ramatsoku",
+      "P. Serra",
+      "N. Deg",
+      "R. Ianjamasimanana",
+      "A. Sorgho",
+      "G. De Lucia",
+      "K. Spekkens",
+      "L. Verdes-Montenegro",
+      "H. Yoon",
+      "B. Namumba",
+      "M. Meyer"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": ". A. Boselli and G. Gavazzi. PASP , 118:517–559, Apr. 2006. doi: 10.1086/500691. A. Boselli, M. Fossati, and M. Sun. A&ARv, 30(1):3, Dec. 2022. doi: 10.1007/s00159-022-00140-3. A. Boselli et al. A&A, 676:A92, Aug. 2023. doi: 10.1051/0004-6361/202346812. C. B. Brook et al. ApJ , 689(2):678–686, Dec. 2008. doi: 10.1086/5",
+    "file": "papers/2607.02162.pdf"
+  },
+  {
+    "id": "p0546",
+    "callNumber": "RR 546 A",
     "title": "Advanced Customer Activity Prediction based on Deep Hierarchic Encoder-Decoders",
     "authors": [
       "Andrei"
@@ -6036,8 +7098,20 @@
     "file": "papers/Advanced Customer Activity Prediction.pdf"
   },
   {
-    "id": "p0492",
-    "callNumber": "RR 492 R",
+    "id": "p0547",
+    "callNumber": "RR 547 P",
+    "title": "Provided proper attribution is provided, Google hereby grants permission to",
+    "authors": [
+      "Unknown"
+    ],
+    "year": 2024,
+    "tags": [],
+    "abstract": "The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on ",
+    "file": "papers/All-You-Need.pdf"
+  },
+  {
+    "id": "p0548",
+    "callNumber": "RR 548 R",
     "title": "Revisiting p-$^{11}$B Fusion: Updated Cross-sections, Reactivity, and Energy Balance",
     "authors": [
       "Hong-Yi Wang",
@@ -6051,8 +7125,8 @@
     "file": "papers/B Fusion: Updated Cross-sections, Reactivity, and Energy Balance.pdf"
   },
   {
-    "id": "p0493",
-    "callNumber": "RR 493 D",
+    "id": "p0549",
+    "callNumber": "RR 549 D",
     "title": "Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations",
     "authors": [
       "Unknown"
@@ -6063,8 +7137,8 @@
     "file": "papers/Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations.pdf"
   },
   {
-    "id": "p0494",
-    "callNumber": "RR 494 D",
+    "id": "p0550",
+    "callNumber": "RR 550 D",
     "title": "DiScoFormer: Plug-In Density and Score Estimation with Transformers",
     "authors": [
       "Vasily Ilin",
@@ -6077,8 +7151,8 @@
     "file": "papers/DiScoFormer: Plug-In Density and Score Estimation with Transformers.pdf"
   },
   {
-    "id": "p0495",
-    "callNumber": "RR 495 D",
+    "id": "p0551",
+    "callNumber": "RR 551 D",
     "title": "DNN Architecture for High Performance Prediction on Natural Videos Loses",
     "authors": [
       "Unknown"
@@ -6089,8 +7163,8 @@
     "file": "papers/DNN Architecture for High Performance Prediction on Natural Videos Loses\nSubmodule’s Ability to Learn Discrete-World Dataset.pdf"
   },
   {
-    "id": "p0496",
-    "callNumber": "RR 496 T",
+    "id": "p0552",
+    "callNumber": "RR 552 T",
     "title": "Towards Economical Inference: Enabling DeepSeek’s Multi-Head Latent Attention in Any Transformer-based LLMs",
     "authors": [
       "Unknown"
@@ -6101,8 +7175,8 @@
     "file": "papers/Enabling\nDeepSeek’s Multi-Head Latent Attention in Any Transformer-based LLMs.pdf"
   },
   {
-    "id": "p0497",
-    "callNumber": "RR 497 E",
+    "id": "p0553",
+    "callNumber": "RR 553 E",
     "title": "Entanglement preserving local thermalization",
     "authors": [
       "Unknown"
@@ -6113,8 +7187,8 @@
     "file": "papers/Entanglement preserving local thermalization.pdf"
   },
   {
-    "id": "p0498",
-    "callNumber": "RR 498 F",
+    "id": "p0554",
+    "callNumber": "RR 554 F",
     "title": "Fast Commutative Matrix Algorithm",
     "authors": [
       "Unknown"
@@ -6125,8 +7199,8 @@
     "file": "papers/Fast Commutative Matrix Algorithm.pdf"
   },
   {
-    "id": "p0499",
-    "callNumber": "RR 499 I",
+    "id": "p0555",
+    "callNumber": "RR 555 I",
     "title": "IAN: Combining Generative Adversarial Networks for Imaginative Face",
     "authors": [
       "Unknown"
@@ -6137,8 +7211,8 @@
     "file": "papers/IAN: Combining Generative Adversarial Networks for Imaginative Face\nGeneration.pdf"
   },
   {
-    "id": "p0500",
-    "callNumber": "RR 500 M",
+    "id": "p0556",
+    "callNumber": "RR 556 M",
     "title": "Microsoft Word - Callahan et al arxiv formatted.docx",
     "authors": [
       "Unknown"
@@ -6149,8 +7223,8 @@
     "file": "papers/Medical device surveillance with electronic health.pdf"
   },
   {
-    "id": "p0501",
-    "callNumber": "RR 501 M",
+    "id": "p0557",
+    "callNumber": "RR 557 M",
     "title": "Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities",
     "authors": [
       "Enneng Yang",
@@ -6167,8 +7241,8 @@
     "file": "papers/Model Merging in LLMs, MLLMs, and Beyond: Methods,\nTheories, Applications and Opportunities.pdf"
   },
   {
-    "id": "p0502",
-    "callNumber": "RR 502 Q",
+    "id": "p0558",
+    "callNumber": "RR 558 Q",
     "title": "Quantum Control with Quantum Light of Molecular Nonadiabaticity",
     "authors": [
       "Unknown"
@@ -6179,8 +7253,8 @@
     "file": "papers/Quantum Control with Quantum Light of Molecular Nonadiabaticity.pdf"
   },
   {
-    "id": "p0503",
-    "callNumber": "RR 503 T",
+    "id": "p0559",
+    "callNumber": "RR 559 T",
     "title": "Toward $\\textit{Ab Initio}$ Quantum Simulations of Atomic Nuclei Using Noisy Qubits",
     "authors": [
       "Chongji Jiang",
@@ -6197,8 +7271,8 @@
     "file": "papers/Quantum Simulations of Atomic Nuclei Using Noisy Qubits.pdf"
   },
   {
-    "id": "p0504",
-    "callNumber": "RR 504 R",
+    "id": "p0560",
+    "callNumber": "RR 560 R",
     "title": "Relation-Shape Convolutional Neural Network for Point Cloud Analysis",
     "authors": [
       "Unknown"
@@ -6209,8 +7283,8 @@
     "file": "papers/Relation-Shape Convolutional Neural Network for Point Cloud Analysis.pdf"
   },
   {
-    "id": "p0505",
-    "callNumber": "RR 505 J",
+    "id": "p0561",
+    "callNumber": "RR 561 J",
     "title": "JOURNAL OF LATEX CLASS FILES, VOL. 14, NO. 8, APRIL 2019 1 Short Text Topic Modeling Techniques,",
     "authors": [
       "Unknown"
