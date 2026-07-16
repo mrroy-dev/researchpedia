@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
 import { papers } from "../lib/papers.js";
@@ -10,6 +10,10 @@ import "./Home.css";
 export default function Home() {
   const navigate = useNavigate();
   const [query, setQuery] = useState("");
+
+  useEffect(() => {
+    document.title = "researchpedia — Research Library";
+  }, []);
 
   const recentlyAdded = useMemo(() => papers.slice(-6).reverse(), []);
   const recentlyRead = useMemo(() => getRecentlyRead(papers, 6), []);

@@ -13,7 +13,7 @@ const papersDir = path.join(root, "public", "papers");
 const outFile = path.join(root, "src", "data", "papers.json");
 
 function titleFromFilename(filename) {
-  const base = filename.replace(/\.pdf$/i, "");
+  const base = filename.replace(/\.pdf$/i, "").replace(/\n/g, " ");
   return base
     .replace(/[_-]+/g, " ")
     .replace(/\s+/g, " ")

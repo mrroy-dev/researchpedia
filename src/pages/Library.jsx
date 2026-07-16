@@ -18,6 +18,10 @@ export default function Library() {
   const [page, setPage] = useState(1);
 
   useEffect(() => {
+    document.title = "Browse — researchpedia";
+  }, []);
+
+  useEffect(() => {
     const q = searchParams.get("q");
     if (q) setQuery(q);
   }, [searchParams]);

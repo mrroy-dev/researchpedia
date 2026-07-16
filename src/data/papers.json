@@ -7239,7 +7239,7 @@
     "year": 2019,
     "tags": [],
     "abstract": "Is cognition a collection of loosely connected functions tuned to different tasks, or can there be a general learning algo- rithm? If such an hypothetical general algorithm did exist, tuned to our world, could it adapt seamlessly to a world with different laws of nature? We consider the theory that predic- tive coding ",
-    "file": "papers/DNN Architecture for High Performance Prediction on Natural Videos Loses\nSubmodule’s Ability to Learn Discrete-World Dataset.pdf"
+    "file": "papers/DNN Architecture for High Performance Prediction on Natural Videos Loses Submodule’s Ability to Learn Discrete-World Dataset.pdf"
   },
   {
     "id": "p0557",
@@ -7251,7 +7251,7 @@
     "year": 2025,
     "tags": [],
     "abstract": "Multi-head Latent Attention (MLA) is an in- novative architecture proposed by DeepSeek, designed to ensure efficient and economical inference by significantly compressing the Key- Value (KV) cache into a latent vector. Com- pared to MLA, standard LLMs employing Multi-Head Attention (MHA) and its vari- ants such as Grou",
-    "file": "papers/Enabling\nDeepSeek’s Multi-Head Latent Attention in Any Transformer-based LLMs.pdf"
+    "file": "papers/Enabling DeepSeek’s Multi-Head Latent Attention in Any Transformer-based LLMs.pdf"
   },
   {
     "id": "p0558",
@@ -7287,7 +7287,7 @@
     "year": 2019,
     "tags": [],
     "abstract": "Generative Adversarial Networks (GANs) have gained momentum for their ability to model image distributions. They learn to emulate the training set and that enables sam- pling from that domain and using the knowledge learned for useful applications. Several methods proposed enhanc- ing GANs, including regularizing the l",
-    "file": "papers/IAN: Combining Generative Adversarial Networks for Imaginative Face\nGeneration.pdf"
+    "file": "papers/IAN: Combining Generative Adversarial Networks for Imaginative Face Generation.pdf"
   },
   {
     "id": "p0561",
@@ -7317,7 +7317,7 @@
     "year": 2026,
     "tags": [],
     "abstract": "ing with credit is permitted. To copy otherwise, or republish, to post on servers or to redistribute to lists, requires prior specific permission and/or a fee. Request permissions from permissions@acm.org. © 0000 Copyright held by the owner/author(s). Publication rights licensed to ACM. ACM 0000-0000/0000/0-ART000 http",
-    "file": "papers/Model Merging in LLMs, MLLMs, and Beyond: Methods,\nTheories, Applications and Opportunities.pdf"
+    "file": "papers/Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities.pdf"
   },
   {
     "id": "p0563",

@@ -1,10 +1,13 @@
+import { lazy, Suspense } from "react";
 import { Routes, Route, useLocation } from "react-router-dom";
-import { AnimatePresence } from "framer-motion";
+import { AnimatePresence, motion } from "framer-motion";
 import Header from "./components/Header.jsx";
-import Home from "./pages/Home.jsx";
-import Library from "./pages/Library.jsx";
-import Reader from "./pages/Reader.jsx";
 import { papers } from "./lib/papers.js";
+
+const Home = lazy(() => import("./pages/Home.jsx"));
+const Library = lazy(() => import("./pages/Library.jsx"));
+const Reader = lazy(() => import("./pages/Reader.jsx"));
+const NotFound = lazy(() => import("./pages/NotFound.jsx"));
 
 export default function App() {
   const location = useLocation();
@@ -13,12 +16,24 @@ export default function App() {
     <>
       <div className="grain" />
       <Header count={papers.length} />
-      <AnimatePresence mode="wait" initial={false}>
-        <Routes location={location} key={location.pathname}>
-          <Route path="/" element={<Home />} />
-          <Route path="/browse" element={<Library />} />
-          <Route path="/paper/:id" element={<Reader />} />
-        </Routes>
+      <AnimatePresence mode="wait">
+        <motion.div
+          key={location.pathname}
+          style={{ flex: 1, display: "flex", flexDirection: "column" }}
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          exit={{ opacity: 0 }}
+          transition={{ duration: 0.3 }}
+        >
+          <Suspense fallback={null}>
+            <Routes location={location}>
+              <Route path="/" element={<Home />} />
+              <Route path="/browse" element={<Library />} />
+              <Route path="/paper/:id" element={<Reader />} />
+              <Route path="*" element={<NotFound />} />
+            </Routes>
+          </Suspense>
+        </motion.div>
       </AnimatePresence>
     </>
   );

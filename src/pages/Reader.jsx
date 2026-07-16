@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef } from "react";
 import { Link, useParams } from "react-router-dom";
 import { getPaperById } from "../lib/papers.js";
 import { trackView, addReadingTime } from "../lib/analytics.js";
@@ -9,23 +9,13 @@ import "./Reader.css";
 export default function Reader() {
   const { id } = useParams();
   const paper = getPaperById(id);
-  const [fileStatus, setFileStatus] = useState("checking");
 
   useEffect(() => {
-    if (!paper) return;
-    let cancelled = false;
-    setFileStatus("checking");
-    fetch(`/${paper.file}`, { method: "HEAD" })
-      .then((res) => {
-        if (cancelled) return;
-        setFileStatus(res.ok ? "found" : "missing");
-      })
-      .catch(() => {
-        if (!cancelled) setFileStatus("missing");
-      });
-    return () => {
-      cancelled = true;
-    };
+    if (paper) {
+      document.title = `${paper.title} — researchpedia`;
+    } else {
+      document.title = "Not found — researchpedia";
+    }
   }, [paper]);
 
   // Local (this-browser-only) reading analytics: one view per open,
@@ -99,30 +89,17 @@ export default function Reader() {
               <p className="reader__abstract">{paper.abstract}</p>
             </>
           )}
-          {fileStatus === "found" && (
-            <a className="reader__open-tab" href={`/${paper.file}`} target="_blank" rel="noreferrer">
-              Open in new tab ↗
-            </a>
-          )}
+          <a className="reader__open-tab" href={`/${paper.file}`} target="_blank" rel="noreferrer">
+            Open in new tab ↗
+          </a>
         </aside>
 
         <div className="reader__page">
-          {fileStatus === "checking" && (
-            <div className="reader__loading">Fetching volume from the stacks…</div>
-          )}
-          {fileStatus === "found" && (
-            <iframe
-              title={paper.title}
-              src={`/${paper.file}`}
-              className="reader__frame"
-            />
-          )}
-          {fileStatus === "missing" && (
-            <EmptyState title="This volume hasn't been shelved yet">
-              Add the file to <code>public/{paper.file}</code>, then reload this page.
-              Run <code>npm run scan</code> after adding new PDFs to refresh the catalog.
-            </EmptyState>
-          )}
+          <iframe
+            title={paper.title}
+            src={`/${paper.file}`}
+            className="reader__frame"
+          />
         </div>
       </div>
       </div>
