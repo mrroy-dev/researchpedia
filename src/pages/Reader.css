@@ -38,6 +38,7 @@
   padding: 1.4rem 1.3rem;
   position: sticky;
   top: 1.5rem;
+  box-shadow: var(--shadow-red);
 }
 
 .reader__slip-label {
@@ -121,8 +122,14 @@
   font-family: var(--font-mono);
   font-size: 0.72rem;
   letter-spacing: 0.03em;
-  color: var(--burgundy);
-  border-bottom: 1px solid var(--burgundy);
+  color: var(--red);
+  border-bottom: 1px solid var(--red);
+  transition: color 0.18s ease, letter-spacing 0.18s ease;
+}
+
+.reader__open-tab:hover {
+  color: var(--library-green);
+  letter-spacing: 0.06em;
 }
 
 .reader__page {

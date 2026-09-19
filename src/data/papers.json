@@ -6052,7 +6052,19 @@
   },
   {
     "id": "p0493",
-    "callNumber": "RR 493 M",
+    "callNumber": "RR 493 Q",
+    "title": "QLORA: Efficient Finetuning of Quantized LLMs Tim Dettmers∗ Artidoro Pagnoni∗ Ari Holtzman",
+    "authors": [
+      "Unknown"
+    ],
+    "year": 2023,
+    "tags": [],
+    "abstract": "We present QLORA, an efficient finetuning approach that reduces memory us- age enough to finetune a 65B parameter model on a single 48GB GPU while preserving full 16-bit finetuning task performance. QLORA backpropagates gradi- ents through a frozen, 4-bit quantized pretrained language model into Low Rank Adapters (LoRA",
+    "file": "papers/2305.14314v1.pdf"
+  },
+  {
+    "id": "p0494",
+    "callNumber": "RR 494 M",
     "title": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces",
     "authors": [
       "Unknown"
@@ -6063,8 +6075,8 @@
     "file": "papers/2312.00752v2.pdf"
   },
   {
-    "id": "p0494",
-    "callNumber": "RR 494 D",
+    "id": "p0495",
+    "callNumber": "RR 495 D",
     "title": "DeepSeek-V3 Technical Report",
     "authors": [
       "Unknown"
@@ -6075,8 +6087,8 @@
     "file": "papers/2412.19437v1.pdf"
   },
   {
-    "id": "p0495",
-    "callNumber": "RR 495 I",
+    "id": "p0496",
+    "callNumber": "RR 496 I",
     "title": "Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures",
     "authors": [
       "Chenggang Zhao",
@@ -6101,8 +6113,8 @@
     "file": "papers/2505.09343v2.pdf"
   },
   {
-    "id": "p0496",
-    "callNumber": "RR 496 S",
+    "id": "p0497",
+    "callNumber": "RR 497 S",
     "title": "Self-Adapting Language Models",
     "authors": [
       "Adam Zweiger",
@@ -6118,8 +6130,8 @@
     "file": "papers/2506.10943v2.pdf"
   },
   {
-    "id": "p0497",
-    "callNumber": "RR 497 P",
+    "id": "p0498",
+    "callNumber": "RR 498 P",
     "title": "Pulsar Science with the SKA Observatory",
     "authors": [
       "Bhal Chandra Joshi",
@@ -6133,8 +6145,8 @@
     "file": "papers/2512.16152.pdf"
   },
   {
-    "id": "p0498",
-    "callNumber": "RR 498 T",
+    "id": "p0499",
+    "callNumber": "RR 499 T",
     "title": "Testing Gravity with Binary Pulsars in the SKA Era",
     "authors": [
       "V. Venkatraman Krishnan",
@@ -6168,8 +6180,8 @@
     "file": "papers/2512.16161.pdf"
   },
   {
-    "id": "p0499",
-    "callNumber": "RR 499 C",
+    "id": "p0500",
+    "callNumber": "RR 500 C",
     "title": "Classical freeness of 𝔰𝔩_n at level 1 via combinatorics",
     "authors": [
       "Shashank Kanade"
@@ -6180,8 +6192,8 @@
     "file": "papers/2606.19234v1.pdf"
   },
   {
-    "id": "p0500",
-    "callNumber": "RR 500 U",
+    "id": "p0501",
+    "callNumber": "RR 501 U",
     "title": "Unlimited OCR Works",
     "authors": [
       "Youyang Yin",
@@ -6208,8 +6220,8 @@
     "file": "papers/2606.23050v1.pdf"
   },
   {
-    "id": "p0501",
-    "callNumber": "RR 501 P",
+    "id": "p0502",
+    "callNumber": "RR 502 P",
     "title": "Pulsar Science with the SKAO",
     "authors": [
       "Bhal Chandra Joshi",
@@ -6222,8 +6234,8 @@
     "file": "papers/2607.01288.pdf"
   },
   {
-    "id": "p0502",
-    "callNumber": "RR 502 H",
+    "id": "p0503",
+    "callNumber": "RR 503 H",
     "title": "How I stop worrying about non-universality and b_ϕ: Constraining local f_ NL with b_ϕ priors from HOD posteriors",
     "authors": [
       "Jiaxi Yu",
@@ -6235,8 +6247,8 @@
     "file": "papers/2607.01314.pdf"
   },
   {
-    "id": "p0503",
-    "callNumber": "RR 503 D",
+    "id": "p0504",
+    "callNumber": "RR 504 D",
     "title": "Discovery of an Inflated Hot Neptune and Its Formation from Jovian Mass Loss",
     "authors": [
       "Grant C. Weldon",
@@ -6266,8 +6278,8 @@
     "file": "papers/2607.01315.pdf"
   },
   {
-    "id": "p0504",
-    "callNumber": "RR 504 A",
+    "id": "p0505",
+    "callNumber": "RR 505 A",
     "title": "Aerosols and hydrocarbons in the atmosphere of a white dwarf planet",
     "authors": [
       "Ryan J. MacDonald",
@@ -6295,8 +6307,8 @@
     "file": "papers/2607.01316.pdf"
   },
   {
-    "id": "p0505",
-    "callNumber": "RR 505 T",
+    "id": "p0506",
+    "callNumber": "RR 506 T",
     "title": "TEQUILA: Mechanism-free polarimetry for astronomy",
     "authors": [
       "Alan M. Watson",
@@ -6308,8 +6320,8 @@
     "file": "papers/2607.01325.pdf"
   },
   {
-    "id": "p0506",
-    "callNumber": "RR 506 E",
+    "id": "p0507",
+    "callNumber": "RR 507 E",
     "title": "Extreme outflow velocities and weak UV emission lines indicate quasars shedding their dust cocoons",
     "authors": [
       "Guozhen Ma",
@@ -6333,8 +6345,8 @@
     "file": "papers/2607.01330.pdf"
   },
   {
-    "id": "p0507",
-    "callNumber": "RR 507 T",
+    "id": "p0508",
+    "callNumber": "RR 508 T",
     "title": "The fingerprint of primordial mass segregation on the tidal tails of star clusters",
     "authors": [
       "S. Mojtaba Ghasemi",
@@ -6350,8 +6362,8 @@
     "file": "papers/2607.01331.pdf"
   },
   {
-    "id": "p0508",
-    "callNumber": "RR 508 A",
+    "id": "p0509",
+    "callNumber": "RR 509 A",
     "title": "A possible high-redshift origin for the short GRB 061201: implications of a compact binary merger beyond cosmic noon",
     "authors": [
       "E. Troja",
@@ -6368,8 +6380,8 @@
     "file": "papers/2607.01337.pdf"
   },
   {
-    "id": "p0509",
-    "callNumber": "RR 509 I",
+    "id": "p0510",
+    "callNumber": "RR 510 I",
     "title": "IRIS: Deciphering Spectral-Line Imagery of the Galactic Center by Machine-Learning on Simulations",
     "authors": [
       "B. L. DuBois",
@@ -6393,8 +6405,8 @@
     "file": "papers/2607.01338.pdf"
   },
   {
-    "id": "p0510",
-    "callNumber": "RR 510 X",
+    "id": "p0511",
+    "callNumber": "RR 511 X",
     "title": "X-ray polarization in magnetized neutron stars",
     "authors": [
       "Tanuman Ghosh",
@@ -6406,8 +6418,8 @@
     "file": "papers/2607.01357.pdf"
   },
   {
-    "id": "p0511",
-    "callNumber": "RR 511 C",
+    "id": "p0512",
+    "callNumber": "RR 512 C",
     "title": "Constraining the near-source relativistic wind medium using Fast Radio Burst circular polarization data",
     "authors": [
       "Om Gupta",
@@ -6420,8 +6432,8 @@
     "file": "papers/2607.01369.pdf"
   },
   {
-    "id": "p0512",
-    "callNumber": "RR 512 A",
+    "id": "p0513",
+    "callNumber": "RR 513 A",
     "title": "AI-enabled gravitational-waves searches for binary neutron stars at optimal sensitivity",
     "authors": [
       "Bhavya Gupta",
@@ -6441,8 +6453,8 @@
     "file": "papers/2607.01372.pdf"
   },
   {
-    "id": "p0513",
-    "callNumber": "RR 513 S",
+    "id": "p0514",
+    "callNumber": "RR 514 S",
     "title": "Stark-Broadened Profiles for Ionized Helium Lines Using Computer Simulations",
     "authors": [
       "Patrick Tremblay",
@@ -6455,8 +6467,8 @@
     "file": "papers/2607.01373.pdf"
   },
   {
-    "id": "p0514",
-    "callNumber": "RR 514 L",
+    "id": "p0515",
+    "callNumber": "RR 515 L",
     "title": "Lensing-Reconstructed Dark Matter-Intracluster Medium Coherence as a Probe of Cluster Dynamical State: Application to HSTFF, RELICS, and CLASH Clusters",
     "authors": [
       "Giulia Cerini",
@@ -6482,8 +6494,8 @@
     "file": "papers/2607.01389.pdf"
   },
   {
-    "id": "p0515",
-    "callNumber": "RR 515 S",
+    "id": "p0516",
+    "callNumber": "RR 516 S",
     "title": "Secondary Production of Photons from ALP Dark Matter interacting with a Cosmological Magnetic Field",
     "authors": [
       "Abdias Aires",
@@ -6496,8 +6508,8 @@
     "file": "papers/2607.01399.pdf"
   },
   {
-    "id": "p0516",
-    "callNumber": "RR 516 F",
+    "id": "p0517",
+    "callNumber": "RR 517 F",
     "title": "Fractional-Dimension Gravity and the Milky Way Galaxy",
     "authors": [
       "Gabriele U. Varieschi"
@@ -6508,8 +6520,8 @@
     "file": "papers/2607.01412.pdf"
   },
   {
-    "id": "p0517",
-    "callNumber": "RR 517 H",
+    "id": "p0518",
+    "callNumber": "RR 518 H",
     "title": "How Late Solid Enrichment Shapes Atmospheric Abundances in Giant Planets",
     "authors": [
       "Michael L. Balogh",
@@ -6526,8 +6538,8 @@
     "file": "papers/2607.01466.pdf"
   },
   {
-    "id": "p0518",
-    "callNumber": "RR 518 R",
+    "id": "p0519",
+    "callNumber": "RR 519 R",
     "title": "Radiative filtering unifies broad-line phenomenology in active galactic nuclei",
     "authors": [
       "Mohammad Hassan Naddaf"
@@ -6538,8 +6550,8 @@
     "file": "papers/2607.01479.pdf"
   },
   {
-    "id": "p0519",
-    "callNumber": "RR 519 T",
+    "id": "p0520",
+    "callNumber": "RR 520 T",
     "title": "The Galactic Centre G+0.633-0.0604 molecular cloud: a new astrochemical gold mine. I. Gas physical properties",
     "authors": [
       "D. San Andrés",
@@ -6556,8 +6568,8 @@
     "file": "papers/2607.01481.pdf"
   },
   {
-    "id": "p0520",
-    "callNumber": "RR 520 M",
+    "id": "p0521",
+    "callNumber": "RR 521 M",
     "title": "Magneto-rotational instabilities in solids: application to neutron-star crusts",
     "authors": [
       "Arthur G. Suvorov",
@@ -6570,8 +6582,8 @@
     "file": "papers/2607.01505.pdf"
   },
   {
-    "id": "p0521",
-    "callNumber": "RR 521 C",
+    "id": "p0522",
+    "callNumber": "RR 522 C",
     "title": "CHEOPS observations of V1298 Tau: updated planetary densities and implications on the early evolution of the young system",
     "authors": [
       "Hinna Shivkumar",
@@ -6593,8 +6605,8 @@
     "file": "papers/2607.01559.pdf"
   },
   {
-    "id": "p0522",
-    "callNumber": "RR 522 D",
+    "id": "p0523",
+    "callNumber": "RR 523 D",
     "title": "Detection of Doppler velocity differences between ions and neutrals in an erupting prominence",
     "authors": [
       "Yuwei Huang",
@@ -6607,8 +6619,8 @@
     "file": "papers/2607.01570.pdf"
   },
   {
-    "id": "p0523",
-    "callNumber": "RR 523 S",
+    "id": "p0524",
+    "callNumber": "RR 524 S",
     "title": "Signatures of Two Distinct Epochs of FRB 20240114A from January to August 2024 Based on its Energy and Waiting Time Analysis",
     "authors": [
       "Xiao Li",
@@ -6621,8 +6633,8 @@
     "file": "papers/2607.01576.pdf"
   },
   {
-    "id": "p0524",
-    "callNumber": "RR 524 E",
+    "id": "p0525",
+    "callNumber": "RR 525 E",
     "title": "Efficient high-order explicit symplectic splitting methods for post-Newtonian Hamiltonian systems",
     "authors": [
       "Yujie Jiang",
@@ -6634,8 +6646,8 @@
     "file": "papers/2607.01596.pdf"
   },
   {
-    "id": "p0525",
-    "callNumber": "RR 525 B",
+    "id": "p0526",
+    "callNumber": "RR 526 B",
     "title": "Bolometric correction factor and radiative efficiency for the super-Eddington accretion flow in tidal disruption events",
     "authors": [
       "Yongxin Wu",
@@ -6651,8 +6663,8 @@
     "file": "papers/2607.01604.pdf"
   },
   {
-    "id": "p0526",
-    "callNumber": "RR 526 X",
+    "id": "p0527",
+    "callNumber": "RR 527 X",
     "title": "X-ray Fourier lag-frequency spectra modulated by stochastic turbulent acceleration in the jets of high-frequency-peaked BL Lac",
     "authors": [
       "Guang-Cheng Xiao",
@@ -6669,8 +6681,8 @@
     "file": "papers/2607.01606.pdf"
   },
   {
-    "id": "p0527",
-    "callNumber": "RR 527 A",
+    "id": "p0528",
+    "callNumber": "RR 528 A",
     "title": "Architecture and Validation of the CRS F-Engine for the CHORD Radio Telescope",
     "authors": [
       "Ian Hendricksen",
@@ -6684,8 +6696,8 @@
     "file": "papers/2607.01625.pdf"
   },
   {
-    "id": "p0528",
-    "callNumber": "RR 528 N",
+    "id": "p0529",
+    "callNumber": "RR 529 N",
     "title": "Numerical Investigation of Efficient Electron Acceleration at an Unsteady Solar Flare Loop-Top",
     "authors": [
       "Yoshiaki Sato",
@@ -6699,8 +6711,8 @@
     "file": "papers/2607.01644.pdf"
   },
   {
-    "id": "p0529",
-    "callNumber": "RR 529 D",
+    "id": "p0530",
+    "callNumber": "RR 530 D",
     "title": "Development of a Retrieval-Augmented Generation Virtual Assistant for Enhanced Information Discovery at Rubin Observatory",
     "authors": [
       "Leanne P. Guy",
@@ -6718,8 +6730,8 @@
     "file": "papers/2607.01659.pdf"
   },
   {
-    "id": "p0530",
-    "callNumber": "RR 530 P",
+    "id": "p0531",
+    "callNumber": "RR 531 P",
     "title": "Periodic Radio Technosignature Search toward 3I/ATLAS with FAST",
     "authors": [
       "Jian-Kang Li",
@@ -6733,8 +6745,8 @@
     "file": "papers/2607.01666.pdf"
   },
   {
-    "id": "p0531",
-    "callNumber": "RR 531 T",
+    "id": "p0532",
+    "callNumber": "RR 532 T",
     "title": "The Sun's chemical peculiarity: disentangling Galactic chemical evolution and planetary engulfment in solar twins",
     "authors": [
       "Mia Babatsikos",
@@ -6752,8 +6764,8 @@
     "file": "papers/2607.01699.pdf"
   },
   {
-    "id": "p0532",
-    "callNumber": "RR 532 T",
+    "id": "p0533",
+    "callNumber": "RR 533 T",
     "title": "The influence of lunar tidal potential on clock frequencies at different positions on Earth",
     "authors": [
       "Hongbin Zhang",
@@ -6766,8 +6778,8 @@
     "file": "papers/2607.01758.pdf"
   },
   {
-    "id": "p0533",
-    "callNumber": "RR 533 L",
+    "id": "p0534",
+    "callNumber": "RR 534 L",
     "title": "Lattice study of primordial black hole formation in bumpy axion inflation",
     "authors": [
       "Masahiro Kawasaki",
@@ -6780,8 +6792,8 @@
     "file": "papers/2607.01780.pdf"
   },
   {
-    "id": "p0534",
-    "callNumber": "RR 534 G",
+    "id": "p0535",
+    "callNumber": "RR 535 G",
     "title": "Gravitational Waves from Primordial Black Holes: Connecting Low-Frequency Scalar-Induced Signatures to High-Frequency Binary Mergers",
     "authors": [
       "Ashu Kushwaha"
@@ -6792,8 +6804,8 @@
     "file": "papers/2607.01818.pdf"
   },
   {
-    "id": "p0535",
-    "callNumber": "RR 535 P",
+    "id": "p0536",
+    "callNumber": "RR 536 P",
     "title": "Polarization Architecture of Steady GRMHD Jets from the Horizon to Infinity",
     "authors": [
       "Zhenyu Zhang",
@@ -6808,8 +6820,8 @@
     "file": "papers/2607.01820.pdf"
   },
   {
-    "id": "p0536",
-    "callNumber": "RR 536 P",
+    "id": "p0537",
+    "callNumber": "RR 537 P",
     "title": "Post-starburst Galaxies with Active Galactic Nucleus: Properties and Evolutionary Sequences",
     "authors": [
       "Junjie Huang",
@@ -6829,8 +6841,8 @@
     "file": "papers/2607.01832.pdf"
   },
   {
-    "id": "p0537",
-    "callNumber": "RR 537 R",
+    "id": "p0538",
+    "callNumber": "RR 538 R",
     "title": "Revisiting atmospheric Roche lobe overflow in symbiotic binaries",
     "authors": [
       "Tan Liu",
@@ -6848,8 +6860,8 @@
     "file": "papers/2607.01848.pdf"
   },
   {
-    "id": "p0538",
-    "callNumber": "RR 538 T",
+    "id": "p0539",
+    "callNumber": "RR 539 T",
     "title": "TESS’s First Bound Microlensing Planet—A Binary Microlensing Event Revealing a Planetary Companion toward the Galactic Plane",
     "authors": [
       "Mallory Harris"
@@ -6860,8 +6872,8 @@
     "file": "papers/2607.01853.pdf"
   },
   {
-    "id": "p0539",
-    "callNumber": "RR 539 M",
+    "id": "p0540",
+    "callNumber": "RR 540 M",
     "title": "meer21cm: an Analysis Pipeline and Comprehensive Toolkit for HI Intensity Mapping",
     "authors": [
       "Zhaoting Chen",
@@ -6897,8 +6909,8 @@
     "file": "papers/2607.01864.pdf"
   },
   {
-    "id": "p0540",
-    "callNumber": "RR 540 D",
+    "id": "p0541",
+    "callNumber": "RR 541 D",
     "title": "Distance Determination of Southern Galactic Plane Supernova Remnants with the Mopra CO Survey and DECaPS 3D Dust Map",
     "authors": [
       "Fupeng Liu",
@@ -6913,8 +6925,8 @@
     "file": "papers/2607.01886.pdf"
   },
   {
-    "id": "p0541",
-    "callNumber": "RR 541 J",
+    "id": "p0542",
+    "callNumber": "RR 542 J",
     "title": "J and H band sky brightness measurements from polar day to polar night at Dome A, Antarctica",
     "authors": [
       "Jinji Li",
@@ -6936,8 +6948,8 @@
     "file": "papers/2607.01923.pdf"
   },
   {
-    "id": "p0542",
-    "callNumber": "RR 542 C",
+    "id": "p0543",
+    "callNumber": "RR 543 C",
     "title": "Colour evolution in the radio afterglow of GRB 241025A",
     "authors": [
       "S. Giarratana",
@@ -6960,8 +6972,8 @@
     "file": "papers/2607.01941.pdf"
   },
   {
-    "id": "p0543",
-    "callNumber": "RR 543 A",
+    "id": "p0544",
+    "callNumber": "RR 544 A",
     "title": "Asteroseismic Analysis of the Merger Product Red Giant in the γ Persei System",
     "authors": [
       "Rozália Z. Ádám",
@@ -6981,8 +6993,8 @@
     "file": "papers/2607.01955.pdf"
   },
   {
-    "id": "p0544",
-    "callNumber": "RR 544 W",
+    "id": "p0545",
+    "callNumber": "RR 545 W",
     "title": "WST_MOSHR_SPIE2026_14149-420",
     "authors": [
       "Andrea Tozzi"
@@ -6993,8 +7005,8 @@
     "file": "papers/2607.01968.pdf"
   },
   {
-    "id": "p0545",
-    "callNumber": "RR 545 P",
+    "id": "p0546",
+    "callNumber": "RR 546 P",
     "title": "Pulsar Backend for 21 CentiMeter Array: Implementation of Data Acquisition and Initial Results",
     "authors": [
       "Yukai Zhou",
@@ -7015,8 +7027,8 @@
     "file": "papers/2607.01975.pdf"
   },
   {
-    "id": "p0546",
-    "callNumber": "RR 546 R",
+    "id": "p0547",
+    "callNumber": "RR 547 R",
     "title": "Research Progress on Solar Small-Scale Dynamo",
     "authors": [
       "Wen-Jie Jiang",
@@ -7031,8 +7043,8 @@
     "file": "papers/2607.02009.pdf"
   },
   {
-    "id": "p0547",
-    "callNumber": "RR 547 N",
+    "id": "p0548",
+    "callNumber": "RR 548 N",
     "title": "NGTS-39 b: A 58 d transiting warm Jupiter in an eccentric orbit",
     "authors": [
       "Ioannis Apergis",
@@ -7098,8 +7110,8 @@
     "file": "papers/2607.02061.pdf"
   },
   {
-    "id": "p0548",
-    "callNumber": "RR 548 T",
+    "id": "p0549",
+    "callNumber": "RR 549 T",
     "title": "Testing Gravity with Binary Pulsars in the SKA Era",
     "authors": [
       "V. Venkatraman Krishnan",
@@ -7133,8 +7145,8 @@
     "file": "papers/2607.02064.pdf"
   },
   {
-    "id": "p0549",
-    "callNumber": "RR 549 Q",
+    "id": "p0550",
+    "callNumber": "RR 550 Q",
     "title": "Quantum-optimal coronagraphy with spatial mode sorting for direct exoplanet observations",
     "authors": [
       "Yinzi Xin",
@@ -7148,8 +7160,8 @@
     "file": "papers/2607.02065.pdf"
   },
   {
-    "id": "p0550",
-    "callNumber": "RR 550 R",
+    "id": "p0551",
+    "callNumber": "RR 551 R",
     "title": "Revision of the Detached Eclipsing System IR Cas from TESS Observations, Ground-Based Photometry and Spectroscopy",
     "authors": [
       "Matúš Kamenec",
@@ -7165,8 +7177,8 @@
     "file": "papers/2607.02076.pdf"
   },
   {
-    "id": "p0551",
-    "callNumber": "RR 551 D",
+    "id": "p0552",
+    "callNumber": "RR 552 D",
     "title": "Development of a cosmic ray detector using CMOS sensors embedded in smartphones and Raspberry Pi devices",
     "authors": [
       "Wakiko Takano",
@@ -7180,8 +7192,8 @@
     "file": "papers/2607.02106.pdf"
   },
   {
-    "id": "p0552",
-    "callNumber": "RR 552 S",
+    "id": "p0553",
+    "callNumber": "RR 553 S",
     "title": "Spherically Symmetric Fluid Simulations of Black Hole Accretion in Self-Interacting Dark Matter Halos",
     "authors": [
       "Zhe Meng",
@@ -7198,8 +7210,8 @@
     "file": "papers/2607.02151.pdf"
   },
   {
-    "id": "p0553",
-    "callNumber": "RR 553 R",
+    "id": "p0554",
+    "callNumber": "RR 554 R",
     "title": "Resolved HI and Environmental Dynamics",
     "authors": [
       "M. Ramatsoku",
@@ -7220,8 +7232,43 @@
     "file": "papers/2607.02162.pdf"
   },
   {
-    "id": "p0554",
-    "callNumber": "RR 554 A",
+    "id": "p0555",
+    "callNumber": "RR 555 P",
+    "title": "Prime Agent: A Self-Improving RLM Harness",
+    "authors": [
+      "Seth Karten",
+      "Alex L. Zhang",
+      "Kevin Thomas",
+      "Sebastian Müller",
+      "Elie Bakouch",
+      "Daniel Auras",
+      "Mika Senghaas",
+      "Fares Obeid",
+      "Konstantin Dunas",
+      "Johannes Hagemann",
+      "Sami Jaghouar"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active con- text. Prime Agent is an open-source harness for long-horizon evaluation and coding-agent workflows. A persistent IPython REPL follows the Recursive Language Model abstrac",
+    "file": "papers/2608.23552v1.pdf"
+  },
+  {
+    "id": "p0556",
+    "callNumber": "RR 556 N",
+    "title": "NeoMME: A Single-Tower Multimodal-Native Multilingual Foundation Encoder for Efficient Fine-Tuning and Inference",
+    "authors": [
+      "Aurélien Lac",
+      "Tony Wu"
+    ],
+    "year": 2026,
+    "tags": [],
+    "abstract": "https://hf.co/collections/Hcompany/neomme NeoMME: A Single-Tower Multimodal-Native Multilingual Foundation Encoder for Efficient Fine-Tuning and Inference Aurélien Lac* Tony Wu* H Company *Equal contribution. Multimodal models often build on architectures designed for generative vision–language modeling, typically comb",
+    "file": "papers/2609.01657v1.pdf"
+  },
+  {
+    "id": "p0557",
+    "callNumber": "RR 557 A",
     "title": "Advanced Customer Activity Prediction based on Deep Hierarchic Encoder-Decoders",
     "authors": [
       "Andrei"
@@ -7232,8 +7279,8 @@
     "file": "papers/Advanced Customer Activity Prediction.pdf"
   },
   {
-    "id": "p0555",
-    "callNumber": "RR 555 P",
+    "id": "p0558",
+    "callNumber": "RR 558 P",
     "title": "Provided proper attribution is provided, Google hereby grants permission to",
     "authors": [
       "Unknown"
@@ -7244,8 +7291,8 @@
     "file": "papers/All-You-Need.pdf"
   },
   {
-    "id": "p0556",
-    "callNumber": "RR 556 R",
+    "id": "p0559",
+    "callNumber": "RR 559 R",
     "title": "Revisiting p-$^{11}$B Fusion: Updated Cross-sections, Reactivity, and Energy Balance",
     "authors": [
       "Hong-Yi Wang",
@@ -7259,8 +7306,8 @@
     "file": "papers/B Fusion: Updated Cross-sections, Reactivity, and Energy Balance.pdf"
   },
   {
-    "id": "p0557",
-    "callNumber": "RR 557 D",
+    "id": "p0560",
+    "callNumber": "RR 560 D",
     "title": "Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations",
     "authors": [
       "Unknown"
@@ -7271,8 +7318,8 @@
     "file": "papers/Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations.pdf"
   },
   {
-    "id": "p0558",
-    "callNumber": "RR 558 D",
+    "id": "p0561",
+    "callNumber": "RR 561 D",
     "title": "DiScoFormer: Plug-In Density and Score Estimation with Transformers",
     "authors": [
       "Vasily Ilin",
@@ -7285,8 +7332,8 @@
     "file": "papers/DiScoFormer: Plug-In Density and Score Estimation with Transformers.pdf"
   },
   {
-    "id": "p0559",
-    "callNumber": "RR 559 D",
+    "id": "p0562",
+    "callNumber": "RR 562 D",
     "title": "DNN Architecture for High Performance Prediction on Natural Videos Loses",
     "authors": [
       "Unknown"
@@ -7297,8 +7344,8 @@
     "file": "papers/DNN Architecture for High Performance Prediction on Natural Videos Loses Submodule’s Ability to Learn Discrete-World Dataset.pdf"
   },
   {
-    "id": "p0560",
-    "callNumber": "RR 560 T",
+    "id": "p0563",
+    "callNumber": "RR 563 T",
     "title": "Towards Economical Inference: Enabling DeepSeek’s Multi-Head Latent Attention in Any Transformer-based LLMs",
     "authors": [
       "Unknown"
@@ -7309,8 +7356,8 @@
     "file": "papers/Enabling DeepSeek’s Multi-Head Latent Attention in Any Transformer-based LLMs.pdf"
   },
   {
-    "id": "p0561",
-    "callNumber": "RR 561 E",
+    "id": "p0564",
+    "callNumber": "RR 564 E",
     "title": "Entanglement preserving local thermalization",
     "authors": [
       "Unknown"
@@ -7321,8 +7368,8 @@
     "file": "papers/Entanglement preserving local thermalization.pdf"
   },
   {
-    "id": "p0562",
-    "callNumber": "RR 562 F",
+    "id": "p0565",
+    "callNumber": "RR 565 F",
     "title": "Fast Commutative Matrix Algorithm",
     "authors": [
       "Unknown"
@@ -7333,8 +7380,8 @@
     "file": "papers/Fast Commutative Matrix Algorithm.pdf"
   },
   {
-    "id": "p0563",
-    "callNumber": "RR 563 I",
+    "id": "p0566",
+    "callNumber": "RR 566 I",
     "title": "IAN: Combining Generative Adversarial Networks for Imaginative Face",
     "authors": [
       "Unknown"
@@ -7345,8 +7392,8 @@
     "file": "papers/IAN: Combining Generative Adversarial Networks for Imaginative Face Generation.pdf"
   },
   {
-    "id": "p0564",
-    "callNumber": "RR 564 M",
+    "id": "p0567",
+    "callNumber": "RR 567 M",
     "title": "Microsoft Word - Callahan et al arxiv formatted.docx",
     "authors": [
       "Unknown"
@@ -7357,8 +7404,8 @@
     "file": "papers/Medical device surveillance with electronic health.pdf"
   },
   {
-    "id": "p0565",
-    "callNumber": "RR 565 M",
+    "id": "p0568",
+    "callNumber": "RR 568 M",
     "title": "Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities",
     "authors": [
       "Enneng Yang",
@@ -7375,8 +7422,8 @@
     "file": "papers/Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities.pdf"
   },
   {
-    "id": "p0566",
-    "callNumber": "RR 566 A",
+    "id": "p0569",
+    "callNumber": "RR 569 A",
     "title": "Avian Models for Human Cognitive Neuroscience: A Proposal",
     "authors": [
       "Nicola S. Clayton"
@@ -7387,8 +7434,8 @@
     "file": "papers/PIIS0896627315003748.pdf"
   },
   {
-    "id": "p0567",
-    "callNumber": "RR 567 Q",
+    "id": "p0570",
+    "callNumber": "RR 570 Q",
     "title": "Quantum Control with Quantum Light of Molecular Nonadiabaticity",
     "authors": [
       "Unknown"
@@ -7399,8 +7446,8 @@
     "file": "papers/Quantum Control with Quantum Light of Molecular Nonadiabaticity.pdf"
   },
   {
-    "id": "p0568",
-    "callNumber": "RR 568 T",
+    "id": "p0571",
+    "callNumber": "RR 571 T",
     "title": "Toward $\\textit{Ab Initio}$ Quantum Simulations of Atomic Nuclei Using Noisy Qubits",
     "authors": [
       "Chongji Jiang",
@@ -7417,8 +7464,8 @@
     "file": "papers/Quantum Simulations of Atomic Nuclei Using Noisy Qubits.pdf"
   },
   {
-    "id": "p0569",
-    "callNumber": "RR 569 R",
+    "id": "p0572",
+    "callNumber": "RR 572 R",
     "title": "Relation-Shape Convolutional Neural Network for Point Cloud Analysis",
     "authors": [
       "Unknown"
@@ -7429,8 +7476,8 @@
     "file": "papers/Relation-Shape Convolutional Neural Network for Point Cloud Analysis.pdf"
   },
   {
-    "id": "p0570",
-    "callNumber": "RR 570 J",
+    "id": "p0573",
+    "callNumber": "RR 573 J",
     "title": "JOURNAL OF LATEX CLASS FILES, VOL. 14, NO. 8, APRIL 2019 1 Short Text Topic Modeling Techniques,",
     "authors": [
       "Unknown"

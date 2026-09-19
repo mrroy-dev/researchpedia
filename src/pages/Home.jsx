@@ -29,12 +29,15 @@ export default function Home() {
     <PageTransition>
     <div className="home">
       <section className="home__hero">
-        <span className="home__eyebrow">Est. today · {papers.length.toLocaleString()} volumes</span>
-        <h1 className="home__headline">
-          Every paper you've <em>saved</em>,
-          <br />
-          in one reading room.
-        </h1>
+        <div className="home__hero-content">
+          <span className="home__eyebrow">Est. today · {papers.length.toLocaleString()} volumes</span>
+          <h1 className="home__headline">
+            Every paper you've <em>saved</em>,
+            <br />
+            in one reading room.
+          </h1>
+        </div>
+        <img className="home__illustration" src="/reading-room.svg" alt="Illustrated reading room with a green lamp and red book" />
         <form className="home__search" onSubmit={handleSubmit}>
           <svg width="18" height="18" viewBox="0 0 16 16" fill="none" aria-hidden="true">
             <circle cx="7" cy="7" r="5.2" stroke="currentColor" strokeWidth="1.3" />
@@ -48,7 +51,10 @@ export default function Home() {
             aria-label="Search the catalog"
             autoFocus
           />
-          <button type="submit">Search</button>
+          <button type="submit">
+            Search
+            <span aria-hidden="true">↗</span>
+          </button>
         </form>
         <button className="home__browse-link" onClick={() => navigate("/browse")}>
           or browse the full catalog →

@@ -13,10 +13,15 @@
   --library-green: #2e4633;
   --library-green-dark: #1f2f22;
   --burgundy: #6e2a34;
+  --red: #b84d4d;
+  --red-soft: #f3d7cf;
+  --green-soft: #dbe8d9;
   --brass: #a9822e;
   --brass-bright: #c79b3a;
   --rule: #c7b896;
   --rule-strong: #a99a76;
+  --shadow-green: 0 18px 38px -24px rgba(46, 70, 51, 0.75), 0 5px 12px -8px rgba(46, 70, 51, 0.36);
+  --shadow-red: 0 18px 38px -24px rgba(110, 42, 52, 0.72), 0 5px 12px -8px rgba(110, 42, 52, 0.34);
 
   --font-display: "Fraunces", "Iowan Old Style", serif;
   --font-body: "Newsreader", "Iowan Old Style", Georgia, serif;
@@ -44,6 +49,12 @@ body {
   font-family: var(--font-body);
   -webkit-font-smoothing: antialiased;
   min-height: 100vh;
+}
+
+button,
+a,
+input {
+  -webkit-tap-highlight-color: transparent;
 }
 
 #root {

@@ -1,0 +1,18 @@
+<svg width="420" height="300" viewBox="0 0 420 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Research reading room</title>
+  <path d="M67 241C111 225 305 225 354 241" stroke="#A99A76" stroke-width="2" stroke-linecap="round"/>
+  <path d="M103 214H326L350 240H78L103 214Z" fill="#E6D9BD" stroke="#2E4633" stroke-width="2"/>
+  <path d="M118 214V247M302 214V247" stroke="#2E4633" stroke-width="3" stroke-linecap="round"/>
+  <rect x="137" y="147" width="156" height="68" rx="2" fill="#F1E9D8" stroke="#2E4633" stroke-width="2"/>
+  <path d="M154 163H276M154 176H254M154 189H268" stroke="#C7B896" stroke-width="3" stroke-linecap="round"/>
+  <path d="M120 146V84H300V146" stroke="#6E2A34" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M129 97H291M129 111H291M129 125H291" stroke="#C7B896" stroke-width="2" stroke-linecap="round"/>
+  <path d="M204 68H242L253 94H193L204 68Z" fill="#B84D4D" stroke="#6E2A34" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M223 68V48" stroke="#2E4633" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="223" cy="43" r="5" fill="#D9B348" stroke="#2E4633" stroke-width="2"/>
+  <path d="M189 214C184 195 185 175 196 161" stroke="#2E4633" stroke-width="2" stroke-linecap="round"/>
+  <path d="M196 161C188 155 180 156 176 165C185 168 191 167 196 161Z" fill="#8CAA86" stroke="#2E4633" stroke-width="2"/>
+  <path d="M196 168C205 161 214 164 216 174C207 177 200 174 196 168Z" fill="#8CAA86" stroke="#2E4633" stroke-width="2"/>
+  <path d="M348 95C363 105 371 120 369 137" stroke="#B84D4D" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 6"/>
+  <path d="M55 132C65 122 78 120 91 126" stroke="#8CAA86" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 6"/>
+</svg>

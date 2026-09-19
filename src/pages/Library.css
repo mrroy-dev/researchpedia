@@ -9,6 +9,7 @@
 .library__toolbar {
   max-width: 520px;
   margin-bottom: 2rem;
+  filter: drop-shadow(0 10px 14px rgba(46, 70, 51, 0.08));
 }
 
 .library__body {
@@ -48,6 +49,8 @@
   background: var(--library-green);
   color: var(--paper);
   border-color: var(--library-green);
+  box-shadow: var(--shadow-green);
+  transform: translateY(-1px);
 }
 
 .library__pagination button:disabled {

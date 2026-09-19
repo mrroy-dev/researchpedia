@@ -1,6 +1,7 @@
 .site-header {
   border-bottom: 1px solid var(--rule);
   padding: 1.6rem clamp(1.2rem, 4vw, 3rem) 1.3rem;
+  background: linear-gradient(180deg, rgba(241, 233, 216, 0.92), rgba(241, 233, 216, 0.56));
 }
 
 .site-header__inner {
@@ -18,10 +19,16 @@
   align-items: center;
   gap: 0.6rem;
   color: var(--library-green-dark);
+  transition: transform 0.2s ease, filter 0.2s ease;
+}
+
+.site-header__mark:hover {
+  transform: translateY(-2px);
+  filter: drop-shadow(0 7px 8px rgba(46, 70, 51, 0.22));
 }
 
 .site-header__mark svg {
-  color: var(--burgundy);
+  color: var(--red);
   flex-shrink: 0;
 }
 
@@ -45,7 +52,7 @@
 
 .site-header__brand-letter:nth-child(1),
 .site-header__brand-letter:nth-child(9) {
-  color: var(--burgundy);
+  color: var(--red);
   font-style: italic;
 }
 
@@ -105,8 +112,8 @@
 }
 
 .site-header__nav a.is-active {
-  color: var(--burgundy);
-  border-color: var(--burgundy);
+  color: var(--red);
+  border-color: var(--red);
 }
 
 .site-header__tag {
